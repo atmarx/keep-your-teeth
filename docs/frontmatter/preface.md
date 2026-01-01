@@ -1,5 +1,7 @@
 # Preface: A Confession from Your Midnight Visitor
 
+![Tooth fairy, weary after a life of collecting teeth.](../images/tooth-fairy.png){ width=300 align=right }
+
 I need to tell you something, and I need you to actually listen this time.
 
 I don't want your teeth.
