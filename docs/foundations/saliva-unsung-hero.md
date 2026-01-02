@@ -6,13 +6,13 @@
 
 Let me tell you about the most underappreciated fluid in your body.
 
-You produce about a liter of it every day. You barely notice it unless something goes wrong. You probably think of it primarily as "spit"—something that helps you swallow food, something that you try not to let escape when you're talking, something that occasionally pools embarrassingly on your pillow at night.
+You produce about a liter of it every day.[^1] You barely notice it unless something goes wrong. You probably think of it primarily as "spit"—something that helps you swallow food, something that you try not to let escape when you're talking, something that occasionally pools embarrassingly on your pillow at night.
 
 But saliva is extraordinary. And if you understood what it's actually doing every moment of every day, you would treat your salivary glands with the reverence they deserve.
 
 ## The Composition of Saliva
 
-Let's start with what's actually in this fluid. Saliva is approximately 99% water, which might make you think it's not particularly special. The magic is in the other 1%.
+Let's start with what's actually in this fluid. Saliva is approximately 99% water,[^2] which might make you think it's not particularly special. The magic is in the other 1%.
 
 | Component | Typical Concentration | What It Does |
 |-----------|----------------------|--------------|
@@ -74,7 +74,7 @@ Here's a puzzle that must have troubled evolution for some time: if saliva is su
 
 The answer involves some elegant protein chemistry.
 
-**Statherin** is a small protein (only 43 amino acids) that plays a crucial role in managing mineral behavior in saliva. It contains a cluster of negatively charged amino acids at one end that bind powerfully to calcium ions and to hydroxyapatite surfaces.
+**Statherin** is a small protein (only 43 amino acids)[^3] that plays a crucial role in managing mineral behavior in saliva. It contains a cluster of negatively charged amino acids at one end that bind powerfully to calcium ions and to hydroxyapatite surfaces.
 
 In bulk saliva, statherin binds to calcium ions and prevents them from spontaneously precipitating with phosphate. It keeps the supersaturated solution stable, in what chemists call a *metastable state*—supersaturated but not actively crystallizing.
 
@@ -92,9 +92,9 @@ Understanding how much saliva does for you makes it easier to understand what ha
 
 **Xerostomia**—dry mouth—is one of the most damaging conditions for oral health. It can result from:
 
-- **Medications:** Hundreds of common drugs reduce saliva production as a side effect. Antidepressants, antihistamines, blood pressure medications, diuretics, and many others all can cause dry mouth.
+- **Medications:** Hundreds of common drugs reduce saliva production as a side effect.[^4] Antidepressants, antihistamines, blood pressure medications, diuretics, and many others all can cause dry mouth.
 
-- **Medical conditions:** Sjögren's syndrome (an autoimmune condition that attacks salivary glands), diabetes, and various other conditions can impair saliva production.
+- **Medical conditions:** Sjögren's syndrome[^5] (an autoimmune condition that attacks salivary glands), diabetes, and various other conditions can impair saliva production.
 
 - **Radiation therapy:** Cancer treatment targeting the head and neck can permanently damage salivary glands.
 
@@ -120,9 +120,9 @@ If you experience chronic dry mouth, this isn't a minor inconvenience to ignore.
 
 Even without medical xerostomia, most people could benefit from more saliva flow, especially after meals when remineralization matters most.
 
-**Chewing gum** is the most practical approach. The mechanical act of chewing stimulates saliva production dramatically—increasing flow rate from around 0.3 mL/min to 2-3 mL/min or more. Choose sugar-free varieties to avoid feeding acid-producing bacteria.
+**Chewing gum** is the most practical approach. The mechanical act of chewing stimulates saliva production dramatically—increasing flow rate from around 0.3 mL/min to 2-3 mL/min or more.[^6] Choose sugar-free varieties to avoid feeding acid-producing bacteria.
 
-Xylitol-sweetened gum is particularly valuable. Xylitol is a sugar alcohol that *S. mutans* cannot metabolize effectively. The bacteria take it up, attempt to ferment it, waste energy, and produce no acid. Meanwhile, the xylitol triggers saliva flow just as effectively as real sugar would. It's a double benefit.
+Xylitol-sweetened gum is particularly valuable. Xylitol is a sugar alcohol that *S. mutans* cannot metabolize effectively.[^7] The bacteria take it up, attempt to ferment it, waste energy, and produce no acid. Meanwhile, the xylitol triggers saliva flow just as effectively as real sugar would. It's a double benefit.
 
 **Sour flavors** also stimulate saliva powerfully—think of how your mouth waters when you taste something tart. The irony is that sour usually means acidic, so while a lemon drop would stimulate saliva, it would also deliver an acid challenge. Sugar-free sour candies can provide the stimulation without the sugar problem, but you're still dealing with the acid.
 
@@ -135,7 +135,7 @@ Xylitol-sweetened gum is particularly valuable. Xylitol is a sugar alcohol that 
 I've already mentioned this, but it deserves emphasis: **nighttime is when your teeth are most vulnerable.**
 
 During sleep:
-- Saliva production drops by 80-90%
+- Saliva production drops by 80-90%[^8]
 - Bicarbonate concentration decreases
 - Swallowing frequency drops, so what saliva is produced pools rather than circulating
 - Any bacteria present continue metabolizing available nutrients and producing acid

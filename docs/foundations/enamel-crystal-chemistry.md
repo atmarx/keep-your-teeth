@@ -6,11 +6,11 @@
 
 Let me introduce you to the hardest substance your body will ever produce.
 
-It's not bone, though people often make that mistake. Bone is impressive in its own way—strong, flexible, capable of healing and remodeling itself throughout your life. But bone is only about 65% mineral. The rest is proteins and living cells, which is why bone can repair a fracture in ways that a tooth never could.
+It's not bone, though people often make that mistake. Bone is impressive in its own way—strong, flexible, capable of healing and remodeling itself throughout your life. But bone is only about 65% mineral.[^1] The rest is proteins and living cells, which is why bone can repair a fracture in ways that a tooth never could.
 
-No, the hardest thing you'll ever make is enamel: the thin, lustrous outer layer of your teeth. And enamel is 96% mineral. It's essentially a crystal that your body grew during childhood and then handed to you with the implicit instruction: *Don't mess this up. This is all you get.*
+No, the hardest thing you'll ever make is enamel: the thin, lustrous outer layer of your teeth. And enamel is 96% mineral.[^2] It's essentially a crystal that your body grew during childhood and then handed to you with the implicit instruction: *Don't mess this up. This is all you get.*
 
-That crystal has a name, and it's worth knowing: **hydroxyapatite**.
+That crystal has a name, and it's worth knowing: **hydroxyapatite**.[^3]
 
 ## The Architecture of Enamel
 
@@ -23,11 +23,11 @@ What this tells us is that each unit of the crystal contains:
 - 6 phosphate groups (PO₄³⁻)
 - 2 hydroxide ions (OH⁻)
 
-These components are arranged in a hexagonal lattice—a repeating geometric pattern that gives enamel its remarkable combination of hardness and resistance to chemical attack. If you could see enamel at the atomic level, you'd find these hexagonal rods, called *enamel prisms*, running from the deeper layers of the tooth out to the surface. Millions of them, packed together, oriented to resist the forces of chewing.
+These components are arranged in a hexagonal lattice—a repeating geometric pattern that gives enamel its remarkable combination of hardness and resistance to chemical attack. If you could see enamel at the atomic level, you'd find these hexagonal rods, called *enamel prisms*, running from the deeper layers of the tooth out to the surface.[^4] Millions of them, packed together, oriented to resist the forces of chewing.
 
-This is no accident. Evolution spent hundreds of millions of years optimizing this structure. The earliest fish were developing hard mineralized tissues for their teeth 400 million years ago. Every refinement, every improvement in the crystal structure, every subtle optimization in the organic matrix that templates the mineral deposition—all of it was selected for because it helped organisms process food more effectively and survive longer.
+This is no accident. Evolution spent hundreds of millions of years optimizing this structure. The earliest fish were developing hard mineralized tissues for their teeth 400 million years ago.[^5] Every refinement, every improvement in the crystal structure, every subtle optimization in the organic matrix that templates the mineral deposition—all of it was selected for because it helped organisms process food more effectively and survive longer.
 
-The result is engineering that human materials science still struggles to replicate. Enamel is harder than steel (about 5 on the Mohs hardness scale), yet it can withstand repeated cycles of stress that would shatter a purely crystalline material. It's less than 3 millimeters thick at its deepest point, yet it protects the softer, living tissues beneath it decade after decade.
+The result is engineering that human materials science still struggles to replicate. Enamel is harder than steel (about 5 on the Mohs hardness scale),[^6] yet it can withstand repeated cycles of stress that would shatter a purely crystalline material. It's less than 3 millimeters thick at its deepest point, yet it protects the softer, living tissues beneath it decade after decade.
 
 And here's what you need to understand: despite all this toughness, enamel is under constant chemical assault. Every day. Every hour. Every time you eat or drink anything.
 
@@ -71,9 +71,9 @@ When acid enters your mouth—from food, from drinks, from bacterial metabolism�
 
 This is why acid is the enemy. Not because it attacks enamel directly (though strong acids can do that too), but because it shifts the equilibrium. It changes the chemical environment in a way that makes dissolution thermodynamically favorable.
 
-The concept of **critical pH** comes from this understanding. For typical saliva composition, the critical pH is around **5.5**. Above this pH, saliva is supersaturated with respect to hydroxyapatite, and remineralization can occur. Below this pH, saliva becomes undersaturated, and demineralization begins.
+The concept of **critical pH** comes from this understanding. For typical saliva composition, the critical pH is around **5.5**.[^7] Above this pH, saliva is supersaturated with respect to hydroxyapatite, and remineralization can occur. Below this pH, saliva becomes undersaturated, and demineralization begins.
 
-But—and this is important—the critical pH isn't a fixed universal constant. It depends on the calcium and phosphate concentrations in the fluid. In saliva with very high mineral content, enamel can resist dissolution at lower pH values. In saliva with low mineral content, demineralization can begin at higher pH.
+But—and this is important—the critical pH isn't a fixed universal constant. It depends on the calcium and phosphate concentrations in the fluid.[^8] In saliva with very high mineral content, enamel can resist dissolution at lower pH values. In saliva with low mineral content, demineralization can begin at higher pH.
 
 This is why saliva composition matters, why some people seem more prone to cavities than others, and why anything that increases the mineral content of oral fluids can help protect teeth. We'll explore this more in the next chapter.
 
@@ -142,3 +142,19 @@ And because it's predictable, it's controllable.
 *Now let's talk about the fluid that makes repair possible—the remarkable, supersaturated, mineral-rich solution that evolution engineered specifically to keep your teeth alive. Let's talk about saliva.*
 
 ---
+
+[^1]: Boskey, A. L. (2007). Mineralization of bones and teeth. *Elements*, 3(6), 385-391. Bone is approximately 65% mineral by weight, with the remainder consisting of organic matrix (primarily collagen) and water.
+
+[^2]: [Tooth enamel](https://en.wikipedia.org/wiki/Tooth_enamel) — Wikipedia. Enamel is 96% mineral, making it the hardest and most mineralized substance in the human body.
+
+[^3]: [Hydroxyapatite](https://en.wikipedia.org/wiki/Hydroxyapatite) — Wikipedia. The primary mineral component of tooth enamel and bone, with the chemical formula Ca₁₀(PO₄)₆(OH)₂.
+
+[^4]: Nanci, A. (2017). *Ten Cate's Oral Histology: Development, Structure, and Function* (9th ed.). Elsevier. Enamel prisms (or rods) are the basic structural units of enamel, running from the dentin-enamel junction to the tooth surface.
+
+[^5]: Donoghue, P. C., & Rücklin, M. (2016). The ins and outs of the evolutionary origin of teeth. *Evolution & Development*, 18(1), 19-30. Mineralized dental tissues first appeared in fish approximately 400 million years ago.
+
+[^6]: [Mohs scale of mineral hardness](https://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness) — Wikipedia. Tooth enamel has a Mohs hardness of approximately 5, comparable to apatite.
+
+[^7]: Dawes, C. (2003). What is the critical pH and why does a tooth dissolve in acid? *Journal of the Canadian Dental Association*, 69(11), 722-724. The critical pH for enamel dissolution is approximately 5.5 for typical saliva composition.
+
+[^8]: Featherstone, J. D. (2008). Dental caries: a dynamic disease process. *Australian Dental Journal*, 53(3), 286-291. The critical pH varies based on the calcium and phosphate ion concentrations in the surrounding fluid.
