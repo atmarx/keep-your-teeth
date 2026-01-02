@@ -9,13 +9,13 @@ Future improvements and ideas for "Beyond the Burn."
 ### High Priority
 
 - [ ] **Peer review pass** — Have dental professionals review for accuracy
-- [ ] **Citation formatting** — Add proper academic citations (currently inline references)
-- [ ] **Images and diagrams**
-  - Enamel crystal structure
-  - pH timeline after eating
-  - Remineralization cycle diagram
-  - Biofilm formation stages
-  - Tooth anatomy cross-section
+- [x] **Citation formatting** — Added ~60 footnotes with journal citations + Wikipedia links
+- [ ] **Images and diagrams** — Placeholders added with generation prompts
+  - Enamel crystal structure (placeholder in enamel-crystal-chemistry.md)
+  - pH timeline / Stephan curve (placeholder in enamel-crystal-chemistry.md)
+  - Remineralization cycle diagram (placeholder in saliva-unsung-hero.md)
+  - Biofilm formation stages (placeholder in biofilm-fortress.md)
+  - Tooth anatomy cross-section (placeholder in introduction.md)
 - [ ] **Recipe cards** — Printable versions of Appendix A formulations
 
 ### Medium Priority
@@ -124,6 +124,8 @@ Topics that could expand existing chapters or become new ones:
 - [x] GitHub Actions CI/CD workflow
 - [x] Website deployment (https://toothfairy.rf.gd/)
 - [x] Anchor links / deep linking to sections
+- [x] Footnote citations throughout all chapters (~60 footnotes)
+- [x] Image placeholders with AI generation prompts (5 diagrams)
 
 ---
 

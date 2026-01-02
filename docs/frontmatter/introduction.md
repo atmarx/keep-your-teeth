@@ -39,6 +39,12 @@ The "bare minimum" approach fails because it treats oral health as a simple inpu
 
 ## What This Book Will Give You
 
+!!! warning inline end "IMAGE PLACEHOLDER"
+
+    **Tooth Anatomy Cross-Section**
+
+    Generate a detailed anatomical cross-section of a molar tooth showing all major structures: enamel (outer white/blue layer), dentin (yellowish layer beneath), pulp chamber (containing blood vessels and nerves), root canal, cementum covering the root, periodontal ligament, alveolar bone (jaw bone), and gingiva (gum tissue). Label each structure clearly. Show the tooth embedded in bone with surrounding soft tissue. Style: medical illustration quality, clean lines, professional color palette, suitable for educational use. Include a small inset showing the location of this tooth in the jaw.
+
 Over the following chapters, I'm going to rebuild your understanding of oral health from the ground up. We'll start with the basics—what enamel actually is, how it dissolves and rebuilds, why saliva is far more important than you've ever been told. We'll explore the microbial ecosystem in your mouth, the hundreds of bacterial species engaged in a constant dance of competition and cooperation.
 
 Then we'll examine how we got to our current approach—the history of dentistry, the rise of germ theory, the well-intentioned but oversimplified idea that oral health means killing as many germs as possible. You'll understand why the "scorched earth" approach felt logical at the time, and why the science has moved on even if the products on pharmacy shelves haven't.

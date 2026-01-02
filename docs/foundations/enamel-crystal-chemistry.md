@@ -14,6 +14,12 @@ That crystal has a name, and it's worth knowing: **hydroxyapatite**.[^3]
 
 ## The Architecture of Enamel
 
+!!! warning inline end "IMAGE PLACEHOLDER"
+
+    **Enamel Crystal Structure**
+
+    Generate a detailed scientific illustration showing the hexagonal crystalline structure of hydroxyapatite. Include: the hexagonal lattice arrangement of calcium, phosphate, and hydroxide ions; enamel prisms/rods running from dentin to surface; cross-sectional view showing the prismatic structure. Style: clean educational diagram with labeled components, suitable for a health/science book. Color palette: blues, whites, and subtle mineral tones.
+
 Hydroxyapatite is a calcium phosphate mineral with a specific crystalline structure. If you want to get technical about it—and I'm going to assume you do, because you're still reading—the chemical formula is:
 
 **Ca₁₀(PO₄)₆(OH)₂**
@@ -79,6 +85,12 @@ But—and this is important—the critical pH isn't a fixed universal constant. 
 This is why saliva composition matters, why some people seem more prone to cavities than others, and why anything that increases the mineral content of oral fluids can help protect teeth. We'll explore this more in the next chapter.
 
 ## The Daily Cycle
+
+!!! warning inline end "IMAGE PLACEHOLDER"
+
+    **pH Timeline After Eating (Stephan Curve)**
+
+    Generate a graph showing the classic Stephan curve: pH on Y-axis (range 4.0-7.5), time on X-axis (0-60 minutes). Show: resting pH around 7.0; sharp drop to ~5.0 immediately after sugar exposure; the critical pH line at 5.5 marked with a dashed line; gradual recovery back to neutral over 30-40 minutes. Label the "danger zone" below critical pH. Include annotations showing "demineralization occurring" below the line and "remineralization possible" above. Style: clean scientific graph suitable for educational material.
 
 If this all sounds rather alarming—your teeth constantly dissolving every time you encounter acid—let me offer some reassurance. The system has a remarkable capacity for self-repair, *if you give it the opportunity*.
 
