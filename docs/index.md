@@ -4,7 +4,11 @@
 
 <div class="hero-section" markdown>
 
+![Tooth fairy, weary after a life of collecting teeth.](../images/tooth-fairy.png){ width=200 align=right }
+
 !!! quote "A confession from your midnight visitor"
+
+
 
     I need to tell you something, and I need you to actually listen this time.
     
