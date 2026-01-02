@@ -95,6 +95,7 @@ Pregnancy cravings are real, and they don't always align with dental health. If 
 Some women experience xerostomia (dry mouth) during pregnancy, either from hormonal changes or from mouth breathing due to nasal congestion. Reduced saliva means reduced buffering capacity and remineralization potential.
 
 **Strategies:**
+
 - Stay well hydrated
 - Use xylitol products to stimulate saliva
 - Consider a humidifier at night
@@ -141,6 +142,7 @@ One of the tragedies I've witnessed is pregnant women avoiding dental care entir
 ### What to Tell Your Dentist
 
 Always inform your dentist that you're pregnant (or might be). Share:
+
 - How far along you are
 - Any pregnancy complications
 - Medications you're taking
@@ -150,11 +152,13 @@ Always inform your dentist that you're pregnant (or might be). Share:
 ### Medications During Pregnancy
 
 **Safe:**
+
 - Acetaminophen (Tylenol) for pain
 - Most antibiotics if needed for dental infection (penicillin, amoxicillin, clindamycin, cephalosporins)
 - Lidocaine local anesthetic
 
 **Avoid:**
+
 - Ibuprofen (especially in third trimester)
 - Aspirin (in most cases)
 - Tetracycline antibiotics (can affect fetal tooth development)
@@ -230,6 +234,7 @@ However—and this is important—prolonged breastfeeding at night, after teeth 
 Let me give you a condensed protocol for maintaining oral health through pregnancy:
 
 **Before pregnancy (if you're planning):**
+
 - Get a dental checkup and address any needed treatment
 - Establish good oral hygiene habits
 - Treat any existing periodontal disease
@@ -237,6 +242,7 @@ Let me give you a condensed protocol for maintaining oral health through pregnan
 **During pregnancy:**
 
 *Daily:*
+
 - Brush twice daily with fluoride or n-HAp toothpaste
 - Floss or use interdental cleaners
 - Use salt/baking soda rinse, especially after vomiting
@@ -244,17 +250,20 @@ Let me give you a condensed protocol for maintaining oral health through pregnan
 - Stay hydrated
 
 *If experiencing morning sickness:*
+
 - Rinse with water immediately after vomiting
 - Follow with baking soda rinse
 - Wait 30 minutes before brushing
 - Consider smaller toothbrush if gag reflex is sensitive
 
 *Professional care:*
+
 - Dental cleaning each trimester (or at least once during pregnancy)
 - Don't delay treatment for active problems
 - Inform dentist of pregnancy and any complications
 
 **Postpartum:**
+
 - Maintain routine despite exhaustion
 - Schedule dental visit at 6-8 weeks
 - "Good enough" beats "perfect but impossible"
@@ -264,6 +273,7 @@ Let me give you a condensed protocol for maintaining oral health through pregnan
 Pregnancy can amplify existing dental anxieties. Hormonal changes affect mood. Protective instincts intensify. The stakes feel higher.
 
 If dental anxiety is keeping you from care:
+
 - Share your fears with your dentist and your prenatal care provider
 - Ask about accommodations (shorter appointments, frequent breaks, enhanced communication)
 - Consider seeing a dentist who specializes in anxious patients
