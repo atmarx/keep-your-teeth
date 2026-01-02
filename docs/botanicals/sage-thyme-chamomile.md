@@ -4,7 +4,7 @@ The Mediterranean basin gave humanity many things: democracy, philosophy, olive 
 
 ## Sage (*Salvia officinalis*)
 
-I mentioned earlier that the very name "Salvia" comes from the Latin *salvare*—"to save" or "to heal." The Romans weren't subtle about what they thought this plant could do.
+I mentioned earlier that the very name "Salvia" comes from the Latin *salvare*—"to save" or "to heal."[^1] The Romans weren't subtle about what they thought this plant could do.
 
 Sage has been used for sore throats, mouth inflammations, and dental problems for at least two thousand years. Herbalist texts from medieval Europe consistently recommend it for oral ailments. Traditional preparations included sage wine, sage vinegar, and simple sage tea used as a gargle or rinse.
 
@@ -36,7 +36,7 @@ Sage contains a complex mixture of bioactive compounds:
 
 **Clinical trials:** A 2015 study in the *Journal of Applied Oral Science* compared a sage extract mouthwash to chlorhexidine. The sage rinse reduced *S. mutans* counts comparably to the pharmaceutical gold standard.
 
-**German Commission E approval:** Germany's Commission E, a scientific body that evaluated herbal medicines, approved sage for inflammation of the mucous membranes of mouth and throat. This is significant—Germany has high standards for phytomedicine evidence.
+**German Commission E approval:** Germany's Commission E, a scientific body that evaluated herbal medicines, approved sage for inflammation of the mucous membranes of mouth and throat.[^2] This is significant—Germany has high standards for phytomedicine evidence.
 
 **Traditional use:** Extensive and consistent across European cultures for centuries.
 
@@ -63,7 +63,7 @@ Thyme is perhaps the most well-validated of the culinary herbs for antimicrobial
 
 ### The Chemistry
 
-**Thymol:** The dominant compound, making up 20-55% of thyme essential oil. A phenolic monoterpene with powerful antimicrobial properties.
+**Thymol:** The dominant compound, making up 20-55% of thyme essential oil.[^3] A phenolic monoterpene with powerful antimicrobial properties.
 
 **Carvacrol:** A structural isomer of thymol with similar (or even greater) antimicrobial potency.
 
@@ -112,7 +112,7 @@ Two species are commonly used:
 
 ### The Chemistry
 
-**Bisabolol (α-bisabolol):** An alcohol with anti-inflammatory, antimicrobial, and wound-healing properties. This is chamomile's star compound for oral health.
+**Bisabolol (α-bisabolol):** An alcohol with anti-inflammatory, antimicrobial, and wound-healing properties.[^4] This is chamomile's star compound for oral health.
 
 **Chamazulene:** A blue-colored compound (gives some chamomile oils their blue tint) with anti-inflammatory effects. It's not present in the plant itself but forms during steam distillation from matricin.
 
@@ -134,7 +134,7 @@ Two species are commonly used:
 
 **Aphthous ulcers (canker sores):** Traditional use and some clinical support for accelerated healing and pain relief.
 
-**German Commission E:** Approved chamomile for mucous membrane inflammation and skin wounds.
+**German Commission E:** Approved chamomile for mucous membrane inflammation and skin wounds.[^5]
 
 **Evidence level:** Moderate. Particularly strong evidence for soothing and wound healing; less evidence for antimicrobial effects.
 
@@ -213,3 +213,13 @@ For detailed monographs on the herbs discussed in this chapter, see herbalist Ri
 - [Lavender](https://www.rjwhelan.co.nz/herbs A-Z/lavender.html) — Another aromatic herb from the Mediterranean tradition
 
 ---
+
+[^1]: [Salvia](https://en.wikipedia.org/wiki/Salvia) — Wikipedia. The genus name derives from Latin *salvere* (to feel well, to be healthy) or *salvare* (to save), reflecting the plant's long medicinal history.
+
+[^2]: [German Commission E](https://en.wikipedia.org/wiki/Commission_E) — Wikipedia. A scientific advisory board that evaluated the safety and efficacy of herbal medicines, producing monographs that remain influential in phytomedicine.
+
+[^3]: [Thymol](https://en.wikipedia.org/wiki/Thymol) — Wikipedia. A natural monoterpene phenol with documented antimicrobial properties, used in commercial mouthwashes since the 1880s.
+
+[^4]: [Bisabolol](https://en.wikipedia.org/wiki/Bisabolol) — Wikipedia. A monocyclic sesquiterpene alcohol with anti-inflammatory, antimicrobial, and skin-healing properties found in chamomile essential oil.
+
+[^5]: The German Commission E approved chamomile for "inflammations and irritations of skin and mucous membranes" including oral applications. Blumenthal, M. (1998). *The Complete German Commission E Monographs*. American Botanical Council.

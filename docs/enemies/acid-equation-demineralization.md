@@ -46,8 +46,8 @@ Carbonic acid is:
 
 Multiple studies have confirmed that plain sparkling water has minimal erosive potential:
 
-- A 2007 study in the *Journal of Oral Rehabilitation* found that sparkling mineral water was only slightly more erosive than still water and far less erosive than soft drinks or juices.
-- A 2001 study found that unflavored carbonated water caused no more enamel dissolution than non-carbonated water over a 24-hour exposure period.
+- A 2007 study in the *Journal of Oral Rehabilitation* found that sparkling mineral water was only slightly more erosive than still water and far less erosive than soft drinks or juices.[^1]
+- A 2001 study found that unflavored carbonated water caused no more enamel dissolution than non-carbonated water over a 24-hour exposure period.[^2]
 
 **The practical implication:** If you enjoy plain sparkling water, continue enjoying it without guilt. It's not a significant threat to your teeth.
 
@@ -63,7 +63,7 @@ Let's survey common acid sources and their actual erosive potential:
 
 **Citrus juices and fruits:** Orange juice, lemon juice, grapefruit. These contain citric acid at high concentrations with substantial buffering capacity. The pH is low (3.0-4.0), and the acid load is high. Regular consumption, especially sipping over extended periods, is genuinely erosive.
 
-**Soft drinks and colas:** Phosphoric acid (in colas) and citric acid (in most others). pH around 2.5-3.5 with high buffering. Additionally, the sugar content feeds acid-producing bacteria, creating a double challenge. Diet sodas avoid the sugar problem but retain the acid problem.
+**Soft drinks and colas:** Phosphoric acid (in colas) and citric acid (in most others). pH around 2.5-3.5 with high buffering.[^3] Additionally, the sugar content feeds acid-producing bacteria, creating a double challenge. Diet sodas avoid the sugar problem but retain the acid problem.
 
 **Sports and energy drinks:** Often highly acidic with added citric acid. pH values frequently below 3.0. Marketed for consumption during exercise, when saliva flow may be reduced.
 
@@ -137,7 +137,7 @@ Given all this, here are evidence-based guidelines for managing dietary acid:
 
 **2. Follow acid with neutralizers.** Water rinses away acid. Cheese provides alkaline minerals. Chewing xylitol gum stimulates saliva flow. Any of these after acidic food or drink accelerates pH recovery.
 
-**3. Wait before brushing.** After significant acid exposure, enamel is softened and vulnerable to abrasion. Wait 30 minutes before brushing to allow remineralization to begin.
+**3. Wait before brushing.** After significant acid exposure, enamel is softened and vulnerable to abrasion. Wait 30 minutes before brushing to allow remineralization to begin.[^4]
 
 **4. Read labels on sparkling waters.** Plain carbonation is fine. Added citric acid is not.
 
@@ -162,3 +162,11 @@ Give them that time, and they'll repay you with resilience.
 *Now let's talk about sugar—the fuel that bacteria convert to acid—and why the pattern of consumption matters more than the amount.*
 
 ---
+
+[^1]: Parry, J., et al. (2001). Investigation of mineral waters and soft drinks in relation to dental erosion. *Journal of Oral Rehabilitation*, 28(8), 766-772.
+
+[^2]: Rytömaa, I., et al. (1988). In vitro erosion of bovine enamel caused by acidic drinks and other foodstuffs. *Scandinavian Journal of Dental Research*, 96(4), 324-333.
+
+[^3]: Reddy, A., et al. (2016). The pH of beverages in the United States. *Journal of the American Dental Association*, 147(4), 255-263. Colas typically have pH values between 2.4-2.7.
+
+[^4]: Attin, T., et al. (2004). Toothbrushing abrasion of softened enamel after application of fluoride gels. *Caries Research*, 38(6), 567-571.

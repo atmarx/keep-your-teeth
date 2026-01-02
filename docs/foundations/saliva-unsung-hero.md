@@ -165,3 +165,19 @@ Your teeth want to heal. Saliva is the evidence. The question is whether you'll 
 *Now let's meet the residents of your mouth—the hundreds of bacterial species that live there, and why understanding their ecology is more important than trying to kill them all.*
 
 ---
+
+[^1]: Humphrey, S. P., & Williamson, R. T. (2001). A review of saliva: normal composition, flow, and function. *Journal of Prosthetic Dentistry*, 85(2), 162-169. Adults produce approximately 0.5-1.5 liters of saliva per day.
+
+[^2]: [Saliva](https://en.wikipedia.org/wiki/Saliva) — Wikipedia. Saliva is approximately 99% water, with the remaining 1% consisting of electrolytes, mucus, antibacterial compounds, and enzymes.
+
+[^3]: Raj, P. A., Johnsson, M., Levine, M. J., & Nancollas, G. H. (1992). Salivary statherin: dependence on sequence, charge, hydrogen bonding potency, and helical conformation for adsorption to hydroxyapatite and inhibition of mineralization. *Journal of Biological Chemistry*, 267(9), 5968-5976.
+
+[^4]: [Xerostomia](https://en.wikipedia.org/wiki/Xerostomia) — Wikipedia. Over 400 medications list dry mouth as a potential side effect.
+
+[^5]: [Sjögren's syndrome](https://en.wikipedia.org/wiki/Sj%C3%B6gren_syndrome) — Wikipedia. An autoimmune disease characterized by dry eyes and dry mouth due to lymphocytic infiltration of the lacrimal and salivary glands.
+
+[^6]: Dawes, C. (1987). Physiological factors affecting salivary flow rate, oral sugar clearance, and the sensation of dry mouth in man. *Journal of Dental Research*, 66(Spec Iss), 648-653. Stimulated saliva flow can increase 10-fold compared to resting flow.
+
+[^7]: Mäkinen, K. K. (2010). Sugar alcohols, caries incidence, and remineralization of caries lesions: a literature review. *International Journal of Dentistry*, 2010, 981072. Xylitol inhibits the growth of *S. mutans* by disrupting its energy production processes.
+
+[^8]: Dawes, C. (1972). Circadian rhythms in human salivary flow rate and composition. *Journal of Physiology*, 220(3), 529-545. Salivary flow rate drops to near zero during sleep.

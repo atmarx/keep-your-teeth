@@ -52,7 +52,7 @@ This isn't speculative. Several clinical trials have demonstrated that arginine-
 - Shift community composition toward ADS-positive species
 - Result in meaningful reductions in new cavities
 
-The 1.5% arginine + calcium carbonate toothpastes (marketed by some brands as "sugar acid neutralizer" technology) are a practical implementation of prebiotic thinking. They're not killing bacteria; they're feeding the right ones.
+The 1.5% arginine + calcium carbonate toothpastes[^1] (marketed by some brands as "sugar acid neutralizer" technology) are a practical implementation of prebiotic thinking. They're not killing bacteria; they're feeding the right ones.
 
 ### Nitrate
 
@@ -66,7 +66,7 @@ Xylitol is sometimes classified as a prebiotic, though its mechanism is more acc
 
 *Streptococcus mutans* cannot effectively metabolize xylitol, but it does take it up. The bacteria waste energy trying to process a sugar they can't actually use, becoming less competitive as a result. Meanwhile, other bacteria that don't attempt to metabolize xylitol are relatively unaffected.
 
-Clinical trials have documented that regular xylitol exposure (typically 5-10 grams daily, divided across multiple exposures) reduces *S. mutans* counts and caries incidence. The effect is selective: you're disadvantaging the main cavity-causing species without broad-spectrum destruction.
+Clinical trials have documented that regular xylitol exposure (typically 5-10 grams daily, divided across multiple exposures) reduces *S. mutans* counts and caries incidence.[^2] The effect is selective: you're disadvantaging the main cavity-causing species without broad-spectrum destruction.
 
 ## Probiotics: Direct Microbial Reinforcements
 
@@ -76,7 +76,7 @@ Clinical trials have documented that regular xylitol exposure (typically 5-10 gr
 
 These strains, originally isolated from children with low levels of pathogenic bacteria, have been most extensively studied:
 
-**K12** produces bacteriocins (salivaricin A and B) that inhibit *S. pyogenes*, the cause of strep throat. It's primarily marketed for throat and ear health, but it colonizes the oral cavity.
+**K12** produces bacteriocins (salivaricin A and B) that inhibit *S. pyogenes*, the cause of strep throat.[^3] It's primarily marketed for throat and ear health, but it colonizes the oral cavity.
 
 **M18** is more specifically targeted at oral health. It produces bacteriocins active against *S. mutans* and also produces enzymes (urease, dextranase) that break down the glucan matrix that *S. mutans* uses to adhere to teeth.
 
@@ -106,7 +106,7 @@ Research is exploring ways to improve colonization: probiotic strains engineered
 
 The most ambitious ecological intervention is **replacement therapy**: permanently replacing disease-associated bacteria with modified versions that can't cause disease but still occupy the same ecological niche.
 
-The most developed example is a genetically modified strain of *Streptococcus mutans* called BCS3-L1, later commercialized as "SMaRT Replacement Therapy."
+The most developed example is a genetically modified strain of *Streptococcus mutans* called BCS3-L1,[^4] later commercialized as "SMaRT Replacement Therapy."
 
 The modifications:
 
@@ -130,7 +130,7 @@ Between broad-spectrum destruction and purely supportive approaches, there's a m
 
 STAMPs are engineered molecules that combine a targeting domain (which recognizes and binds to a specific bacterium) with a killing domain. In principle, you could create a STAMP that kills *S. mutans* specifically while leaving other streptococci untouched.
 
-Research has demonstrated proof of concept in laboratory settings. A STAMP targeting *S. mutans* was able to eliminate this species selectively from mixed bacterial communities. Clinical development continues.
+Research has demonstrated proof of concept in laboratory settings. A STAMP targeting *S. mutans* was able to eliminate this species selectively from mixed bacterial communities.[^5] Clinical development continues.
 
 ### Natural Selective Agents
 
@@ -188,3 +188,13 @@ You're reading this book at a transitional moment. The approaches I'll describe 
 *Now that we understand the paradigm shift, let's look more closely at what actually damages teeth. It's not quite what you've been told.*
 
 ---
+
+[^1]: Kraivaphan, P., et al. (2013). Two-year caries clinical study of the efficacy of novel dentifrices containing 1.5% arginine, an insoluble calcium compound and 1,450 ppm fluoride. *Caries Research*, 47(6), 582-590.
+
+[^2]: Mäkinen, K. K. (2010). Sugar alcohols, caries incidence, and remineralization of caries lesions: a literature review. *International Journal of Dentistry*, 2010, 981072.
+
+[^3]: Burton, J. P., et al. (2006). Safety assessment of the oral cavity probiotic *Streptococcus salivarius* K12. *Applied and Environmental Microbiology*, 72(4), 3050-3053.
+
+[^4]: Hillman, J. D., et al. (2000). Modification of an effector strain for replacement therapy of dental caries to enable clinical safety trials. *Journal of Applied Microbiology*, 89(6), 1034-1042.
+
+[^5]: Eckert, R., et al. (2006). Targeted killing of *Streptococcus mutans* by a pheromone-guided "smart" antimicrobial peptide. *Antimicrobial Agents and Chemotherapy*, 50(11), 3651-3657.

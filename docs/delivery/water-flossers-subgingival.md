@@ -8,7 +8,7 @@ It combines mechanical biofilm disruption with the ability to deliver whatever s
 
 A water flosser isn't just squirting water at your teeth. If it were, you could accomplish the same thing with a sports bottle. The magic is in the pulsation.
 
-Most water flossers operate at:
+Most water flossers operate at:[^1]
 - **Pressure:** 10-100 PSI, with most use in the 50-80 PSI range
 - **Frequency:** 1,200-1,400 pulses per minute
 - **Flow rate:** 10-20 mL per second
@@ -27,7 +27,7 @@ Additionally, the pulsation creates hydraulic turbulence in confined spaces. Whe
 
 ## Subgingival Reach: How Deep Can You Go?
 
-This is one of the most clinically relevant features of water flossers. Studies using tracer dyes have measured how far different oral hygiene methods penetrate into the gingival sulcus or periodontal pocket:
+This is one of the most clinically relevant features of water flossers. Studies using tracer dyes have measured how far different oral hygiene methods penetrate into the gingival sulcus or periodontal pocket:[^2]
 
 | Method | Typical Penetration |
 |--------|---------------------|
@@ -56,7 +56,7 @@ The research on water flossers generally supports their use, though with appropr
 
 ### Strong Evidence
 
-**Gingivitis reduction:** Multiple randomized controlled trials show that water flossers reduce gingival bleeding and inflammation indices. Several studies show superiority to string floss for these outcomes.
+**Gingivitis reduction:** Multiple randomized controlled trials show that water flossers reduce gingival bleeding and inflammation indices.[^3] Several studies show superiority to string floss for these outcomes.
 
 **Plaque reduction:** Consistent reductions in plaque scores, though the magnitude is modest. The effect is more pronounced at interproximal sites and along the gumline.
 
@@ -78,7 +78,7 @@ The research on water flossers generally supports their use, though with appropr
 
 ### A Cochrane Review Note
 
-A Cochrane systematic review noted that while water flossers appear beneficial for gingivitis, the overall quality of evidence is moderate and more well-designed trials are needed. That said, the mechanistic rationale is sound, the devices are safe, and existing evidence trends positive.
+A Cochrane systematic review noted that while water flossers appear beneficial for gingivitis, the overall quality of evidence is moderate and more well-designed trials are needed.[^4] That said, the mechanistic rationale is sound, the devices are safe, and existing evidence trends positive.
 
 ## Technique Matters
 
@@ -200,7 +200,7 @@ This isn't necessarily either/or. They do slightly different things:
 - You have exposed root surfaces with sensitivity
 - You have cardiac conditions requiring antibiotic prophylaxis for dental procedures (water flossing can cause transient bacteremia, though the clinical significance is unclear)
 
-**Start gently:** If you've never used a water flosser, your gums may bleed at first. This is similar to the bleeding that occurs when you start flossing after a long hiatus—it indicates inflammation, not that you're doing harm. Stick with it; bleeding should decrease over 1-2 weeks as gingival health improves.
+**Start gently:** If you've never used a water flosser, your gums may bleed at first.[^5] This is similar to the bleeding that occurs when you start flossing after a long hiatus—it indicates inflammation, not that you're doing harm. Stick with it; bleeding should decrease over 1-2 weeks as gingival health improves.
 
 **Don't overdo pressure:** More pressure isn't always better. The goal is biofilm disruption and solution delivery, not sandblasting your gums.
 
@@ -209,3 +209,13 @@ This isn't necessarily either/or. They do slightly different things:
 In the next chapter, we'll put it all together—mechanical disruption, water flosser irrigation, your ecological rinses, and timing—into a coherent daily protocol.
 
 ---
+
+[^1]: Typical specifications for countertop water flossers from major manufacturers (Waterpik, Philips). Portable units may operate at lower pressures.
+
+[^2]: Cobb, C. M., et al. (1988). Ultrastructural examination of human periodontal pockets following the use of an oral irrigation device in vivo. *Journal of Periodontology*, 59(3), 155-163. Demonstrated subgingival penetration depths using tracer dyes.
+
+[^3]: The effectiveness of a water flosser for reducing gingivitis has been demonstrated in multiple clinical trials. Barnes, C. M., et al. (2005). Comparison of irrigation to floss as an adjunct to toothbrushing. *Journal of Clinical Dentistry*, 16(1), 8-12.
+
+[^4]: The Cochrane review on oral irrigators is less definitive than the individual trials, noting heterogeneity in study designs and outcomes. More standardized research is needed.
+
+[^5]: Gingival bleeding on initiation of any interdental cleaning typically resolves within 1-2 weeks as inflammation decreases. Bleeding that persists beyond this suggests underlying periodontal issues requiring professional evaluation.

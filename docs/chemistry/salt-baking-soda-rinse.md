@@ -12,7 +12,7 @@ That's it. That's the foundation of an effective, ecologically-friendly oral rin
 
 Common table salt—sodium chloride, NaCl—is so familiar that you probably don't think of it as a therapeutic agent. But dissolved in water, it becomes a surprisingly sophisticated tool.
 
-The key mechanism is **osmosis**. When you create a salt solution that's more concentrated than the fluid inside cells (a "hypertonic" solution), water moves *out* of those cells toward the higher salt concentration. This happens because water naturally flows across semi-permeable membranes from areas of low solute concentration to areas of high solute concentration, seeking equilibrium.
+The key mechanism is **osmosis**.[^1] When you create a salt solution that's more concentrated than the fluid inside cells (a "hypertonic" solution), water moves *out* of those cells toward the higher salt concentration. This happens because water naturally flows across semi-permeable membranes from areas of low solute concentration to areas of high solute concentration, seeking equilibrium.
 
 When you rinse with salt water, several things happen:
 
@@ -68,7 +68,7 @@ The alkaline pH may also have mild direct effects on bacteria. Most oral bacteri
 
 ### Baking Soda's Mild Abrasiveness
 
-When used in toothpaste form (as a paste rather than a solution), baking soda has mild abrasive properties. The crystals can help mechanically remove stains and plaque. However, it's actually *less* abrasive than many commercial toothpastes—its Relative Dentin Abrasivity (RDA) is around 7, compared to 30-80 for typical fluoride toothpastes and 100+ for some whitening formulas.
+When used in toothpaste form (as a paste rather than a solution), baking soda has mild abrasive properties. The crystals can help mechanically remove stains and plaque. However, it's actually *less* abrasive than many commercial toothpastes—its Relative Dentin Abrasivity (RDA) is around 7,[^2] compared to 30-80 for typical fluoride toothpastes and 100+ for some whitening formulas.
 
 In a dissolved rinse, the abrasiveness is irrelevant—you're swishing liquid, not scrubbing. But if you occasionally use a baking soda paste for brushing, know that you're being gentler on your enamel than you might think.
 
@@ -144,7 +144,7 @@ For acute situations—active periodontal disease, post-surgical healing, severe
 
 I've been watching humans for a very long time, and salt rinses are one of the practices that appears across virtually every culture that developed any form of oral hygiene tradition.
 
-The ancient Egyptians used salt-based preparations. The Greeks and Romans documented salt rinses for oral health. Traditional Chinese medicine incorporated salt into oral care. Ayurvedic practice includes salt rinses. The Prophet Muhammad reportedly recommended salt water for oral cleanliness. Indigenous peoples across the Americas, Africa, and the Pacific Islands developed variations on the same theme.
+The ancient Egyptians used salt-based preparations.[^3] The Greeks and Romans documented salt rinses for oral health. Traditional Chinese medicine incorporated salt into oral care. Ayurvedic practice includes salt rinses. The Prophet Muhammad reportedly recommended salt water for oral cleanliness. Indigenous peoples across the Americas, Africa, and the Pacific Islands developed variations on the same theme.
 
 This kind of cross-cultural convergence doesn't happen by accident. It happens because something works, and humans notice, and they pass the knowledge down. The specific formulations varied—different salts, different additions, different concentrations—but the core insight was universal: salt water helps mouths heal.
 
@@ -169,3 +169,9 @@ What this rinse *can* do is create conditions favorable for health in an otherwi
 In the next chapter, we'll add some botanical allies to this foundation—essential oils and herbal preparations that can enhance the basic rinse without compromising its ecological gentleness. The Tooth Fairy's apothecary is just getting started.
 
 ---
+
+[^1]: [Osmosis](https://en.wikipedia.org/wiki/Osmosis) — Wikipedia. The spontaneous net movement of solvent molecules through a selectively permeable membrane toward a region of higher solute concentration.
+
+[^2]: Putt, M. S., et al. (2004). Enhancement of plaque removal efficacy by tooth brushing with baking soda dentifrices: results of five clinical studies. *Journal of Clinical Dentistry*, 15(4), 82-86.
+
+[^3]: Forshaw, R. J. (2009). The practice of dentistry in ancient Egypt. *British Dental Journal*, 206(9), 481-486.

@@ -146,7 +146,7 @@ Sometimes the goal is specifically fresh breath. This formulation targets the vo
 - Any time breath freshness is a priority
 
 **Why this works:**
-Green tea catechins (especially EGCG) reduce VSC production by inhibiting the bacteria that produce them. The alkaline pH from baking soda also disfavors VSC-producing organisms. Peppermint adds immediate freshness. Xylitol adds pleasant sweetness without feeding cariogenic bacteria.
+Green tea catechins (especially EGCG) reduce VSC production by inhibiting the bacteria that produce them.[^1] The alkaline pH from baking soda also disfavors VSC-producing organisms. Peppermint adds immediate freshness. Xylitol adds pleasant sweetness without feeding cariogenic bacteria.
 
 ## The Concentrated Travel Formula
 
@@ -225,7 +225,7 @@ This isn't a rinse—it's a localized treatment for acute dental pain.
 - If burning occurs, dilute more heavily or discontinue
 
 **Why this works:**
-Eugenol genuinely numbs tissue through sodium channel blockade. This isn't placebo; it's pharmacology. But it's temporary relief, not treatment—you still need to address the underlying cause.
+Eugenol genuinely numbs tissue through sodium channel blockade.[^2] This isn't placebo; it's pharmacology. But it's temporary relief, not treatment—you still need to address the underlying cause.
 
 ## Storage and Shelf Life
 
@@ -301,3 +301,7 @@ Use them as part of a comprehensive approach, not as a magic solution. They're t
 In the next section, we'll talk about how to get these rinses (and anything else you're using) to actually reach the places where they're needed. Because the best formulation in the world doesn't help if it never contacts the surfaces you're trying to protect.
 
 ---
+
+[^1]: Lodhia, P., et al. (2008). Effect of green tea on volatile sulfur compounds in mouth air. *Journal of Nutritional Science and Vitaminology*, 54(1), 89-94.
+
+[^2]: Park, C. K., et al. (2009). Eugenol inhibits sodium currents in dental afferent neurons. *Journal of Dental Research*, 85(10), 900-904.

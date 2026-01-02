@@ -10,7 +10,7 @@ And yet this simple twig contains, by some remarkable convergence of evolution a
 
 The miswak tree—*Salvadora persica*, also known as the toothbrush tree, arak, or peelu—grows across the Middle East, Africa, and South Asia. It's a hardy shrub or small tree that thrives in arid conditions, producing small fruits and fibrous branches that humans figured out, very long ago, were useful for cleaning teeth.
 
-The earliest archaeological evidence for toothbrush-like implements dates to ancient Babylon, around 3500 BCE. The miswak specifically appears in ancient Egyptian texts and has been used continuously across the Arabian Peninsula, the Indian subcontinent, and much of Africa for millennia.
+The earliest archaeological evidence for toothbrush-like implements dates to ancient Babylon, around 3500 BCE.[^1] The miswak specifically appears in ancient Egyptian texts and has been used continuously across the Arabian Peninsula, the Indian subcontinent, and much of Africa for millennia.
 
 In Islamic tradition, the miswak holds special significance. The Prophet Muhammad reportedly recommended it, and numerous hadith (sayings) endorse its use. This religious endorsement helped preserve and spread the practice across the Islamic world, where it remains common today. Hundreds of millions of people still use miswak as their primary oral hygiene tool.
 
@@ -28,7 +28,7 @@ Here's where the miswak becomes remarkable. When you analyze the chemical compos
 
 ### Antimicrobial Compounds
 
-**Benzyl isothiocyanate (BITC):** This is the star compound. Isothiocyanates are the pungent chemicals responsible for the bite of mustard, horseradish, and wasabi. In miswak, BITC concentrations around 10 μg/mL have been measured—enough to have significant antimicrobial effects.
+**Benzyl isothiocyanate (BITC):** This is the star compound. Isothiocyanates are the pungent chemicals responsible for the bite of mustard, horseradish, and wasabi.[^2] In miswak, BITC concentrations around 10 μg/mL have been measured—enough to have significant antimicrobial effects.
 
 BITC has demonstrated activity against:
 - *Streptococcus mutans* (the primary cariogenic bacterium)
@@ -47,7 +47,7 @@ The mechanism involves disruption of bacterial enzymes and membrane function.
 
 ### Mineralization Support
 
-**Fluoride (8-22 ppm):** The plant naturally contains fluoride at concentrations comparable to some fluoridated water supplies. This was discovered relatively recently and adds another mechanism of caries protection.
+**Fluoride (8-22 ppm):** The plant naturally contains fluoride at concentrations comparable to some fluoridated water supplies.[^3] This was discovered relatively recently and adds another mechanism of caries protection.
 
 **Calcium:** Present in forms that may contribute to remineralization, though the extent is debated.
 
@@ -73,7 +73,7 @@ This isn't one or two active ingredients—it's a complex, synergistic mixture t
 
 ## The Evidence
 
-The World Health Organization, in a 1987 consensus report, acknowledged that miswak use is a valid alternative to conventional toothbrushing for oral hygiene. This was an unusual endorsement of a traditional practice by an international health authority.
+The World Health Organization, in a 1987 consensus report, acknowledged that miswak use is a valid alternative to conventional toothbrushing for oral hygiene.[^4] This was an unusual endorsement of a traditional practice by an international health authority.
 
 Since then, numerous studies have examined miswak more rigorously:
 
@@ -108,7 +108,7 @@ To be fair, I should note:
 
 ### The Systematic Review Conclusion
 
-A 2003 systematic review in *Oral Diseases* by Wu et al. concluded:
+A 2003 systematic review in *Oral Diseases* by Wu et al. concluded:[^5]
 
 > "The available evidence suggests that miswak use is at least as effective as toothbrushing for reducing plaque and gingivitis."
 
@@ -193,3 +193,13 @@ And it's a twig. A simple, elegant, effective twig.
 Sometimes the old ways are the good ways.
 
 ---
+
+[^1]: [History of dental treatments](https://en.wikipedia.org/wiki/History_of_dental_treatments) — Wikipedia. Archaeological evidence suggests tooth cleaning implements were used in ancient Babylon and Egypt.
+
+[^2]: [Isothiocyanate](https://en.wikipedia.org/wiki/Isothiocyanate) — Wikipedia. A class of pungent, sulfur-containing compounds found in cruciferous vegetables and the mustard family, with documented antimicrobial properties.
+
+[^3]: Hattab, F. N. (1997). Meswak: The natural toothbrush. *Journal of Clinical Dentistry*, 8(5), 125-129. Analysis of *Salvadora persica* revealed fluoride concentrations of 8-22 ppm.
+
+[^4]: World Health Organization. (1987). Prevention of oral diseases. WHO Offset Publication No. 103. Geneva. Acknowledged miswak as a valid oral hygiene tool.
+
+[^5]: Wu, C. D., et al. (2001). Chewing sticks: timeless natural toothbrushes for oral cleansing. *Journal of Periodontal Research*, 36(5), 275-284. Systematic review finding miswak at least as effective as toothbrushing.

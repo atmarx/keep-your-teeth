@@ -14,7 +14,7 @@ This chapter will reframe your understanding of sugar's role in dental disease. 
 
 ## The Stephan Curve
 
-In 1944, a dental researcher named Robert Stephan made a foundational discovery. He measured the pH in dental plaque after volunteers rinsed with glucose solutions, and he plotted the results over time.
+In 1944, a dental researcher named Robert Stephan made a foundational discovery.[^1] He measured the pH in dental plaque after volunteers rinsed with glucose solutions, and he plotted the results over time.
 
 What he found was consistent and reproducible:
 
@@ -48,7 +48,7 @@ The total amount of sugar might be similar across these scenarios. But the denta
 
 One of the most compelling demonstrations of this principle comes from the **Hopewood House Study**, conducted in Australia in the 1950s.
 
-Hopewood House was a children's home where, due to philosophical beliefs of the founders, children were raised on a vegetarian diet extremely low in refined sugar. The diet wasn't designed for dental research—it was an ideological choice—but researchers took advantage of the natural experiment.
+Hopewood House was a children's home where, due to philosophical beliefs of the founders, children were raised on a vegetarian diet extremely low in refined sugar.[^2] The diet wasn't designed for dental research—it was an ideological choice—but researchers took advantage of the natural experiment.
 
 The children of Hopewood House had remarkably low rates of tooth decay compared to the general population. Their teeth weren't inherently different; their genetic backgrounds were typical for Australian children of the era. What was different was their sugar exposure pattern: nearly absent.
 
@@ -58,7 +58,7 @@ The study suggested that sugar exposure below a certain threshold resulted in mi
 
 ## The Vipeholm Study: Ethics and Evidence
 
-The most definitive—and ethically troubling—study on sugar consumption patterns was the **Vipeholm Study**, conducted in Sweden from 1945 to 1953.
+The most definitive—and ethically troubling—study on sugar consumption patterns was the **Vipeholm Study**, conducted in Sweden from 1945 to 1953.[^3]
 
 Researchers at the Vipeholm mental institution fed different groups of patients controlled diets with varying sugar amounts and patterns. Some received sugar with meals only. Others received sugar between meals. Others received sticky toffees that adhered to teeth for extended periods.
 
@@ -144,7 +144,7 @@ Xylitol is a sugar alcohol that tastes sweet but cannot be effectively metaboliz
 
 Even better, xylitol appears to actively disadvantage *S. mutans*. The bacteria take up xylitol, attempt to metabolize it, waste energy, and become less competitive. Regular xylitol exposure shifts the oral ecosystem away from cariogenic dominance.
 
-Clinical trials have demonstrated that xylitol exposure of 5-10 grams daily, divided across multiple exposures (gum, mints, candy), significantly reduces caries incidence.
+Clinical trials have demonstrated that xylitol exposure of 5-10 grams daily, divided across multiple exposures (gum, mints, candy), significantly reduces caries incidence.[^4]
 
 Xylitol turns the frequency principle on its head: **more frequent exposure to xylitol is beneficial** rather than harmful. You're repeatedly reminding *S. mutans* that it's living in an inhospitable environment.
 
@@ -169,3 +169,11 @@ The most important change you can make isn't eliminating sugar—it's restructur
 *Now let's examine the structure that makes bacteria so difficult to dislodge: the biofilm, or plaque. Understanding this fortress is essential to understanding why mechanical disruption matters so much.*
 
 ---
+
+[^1]: Stephan, R. M. (1944). Intra-oral hydrogen-ion concentrations associated with dental caries activity. *Journal of Dental Research*, 23(4), 257-266.
+
+[^2]: Harris, R. (1963). Biology of the children of Hopewood House, Bowral, Australia. 4. Observations on dental-caries experience extending over five years (1957-61). *Journal of Dental Research*, 42(6), 1387-1399.
+
+[^3]: Gustafsson, B. E., et al. (1954). The Vipeholm dental caries study; the effect of different levels of carbohydrate intake on caries activity in 436 individuals observed for five years. *Acta Odontologica Scandinavica*, 11(3-4), 232-264.
+
+[^4]: Mäkinen, K. K. (2010). Sugar alcohols, caries incidence, and remineralization of caries lesions: a literature review. *International Journal of Dentistry*, 2010, 981072.

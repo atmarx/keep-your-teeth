@@ -18,9 +18,9 @@ This turns out to be a surprisingly difficult question to answer definitively, b
 
 What we can say:
 
-**Chlorhexidine** is genuinely effective at reducing plaque and gingivitis over the short term. Multiple systematic reviews confirm this. However, chlorhexidine has significant side effects—tooth staining, taste disturbance, increased calculus formation—that make it unsuitable for indefinite daily use. It's typically recommended for short-term therapeutic courses (post-surgical, during periodontal treatment) rather than ongoing maintenance.
+**Chlorhexidine** is genuinely effective at reducing plaque and gingivitis over the short term. Multiple systematic reviews confirm this.[^1] However, chlorhexidine has significant side effects—tooth staining, taste disturbance, increased calculus formation—that make it unsuitable for indefinite daily use. It's typically recommended for short-term therapeutic courses (post-surgical, during periodontal treatment) rather than ongoing maintenance.
 
-**Alcohol-based mouthwashes** (like traditional Listerine) show more modest effects. A 2009 Cochrane review found that chlorhexidine mouthwash reduced plaque by about 33% and gingivitis by about 26% compared to placebo or no treatment. But the studies in that review were short-term, and the clinical significance of a 26% reduction in a gingivitis index isn't entirely clear.
+**Alcohol-based mouthwashes** (like traditional Listerine) show more modest effects. A 2009 Cochrane review found that chlorhexidine mouthwash reduced plaque by about 33% and gingivitis by about 26% compared to placebo or no treatment.[^2] But the studies in that review were short-term, and the clinical significance of a 26% reduction in a gingivitis index isn't entirely clear.
 
 **Cetylpyridinium chloride (CPC)** mouthwashes have weaker antimicrobial activity than chlorhexidine. Evidence of meaningful clinical benefit is less robust.
 
@@ -32,7 +32,7 @@ The assumption that killing bacteria must help has been doing a lot of work.
 
 Even if antiseptic mouthwashes don't cause direct harm, they may cause indirect harm by disrupting the oral ecosystem in ways that don't favor health.
 
-A 2020 study published in *Scientific Reports* examined the oral microbiome composition of regular antiseptic mouthwash users versus non-users. The researchers found significant differences in community composition, with mouthwash users showing:
+A 2020 study published in *Scientific Reports* examined the oral microbiome composition of regular antiseptic mouthwash users versus non-users.[^3] The researchers found significant differences in community composition, with mouthwash users showing:
 
 - Reduced bacterial diversity
 - Altered proportions of major bacterial taxa
@@ -52,7 +52,7 @@ Remember the nitrate-reducing bacteria we discussed earlier? The ones that conve
 
 Those bacteria live in your mouth. When you use antiseptic mouthwash, you kill them along with everything else.
 
-A 2020 study in *Free Radical Biology and Medicine* enrolled 27 adults and had them use antiseptic mouthwash (0.12% chlorhexidine) twice daily for one week, with measurements of blood pressure, oral nitrate-reducing bacteria, and plasma nitrite levels before and after.
+A 2020 study in *Free Radical Biology and Medicine* enrolled 27 adults and had them use antiseptic mouthwash (0.12% chlorhexidine) twice daily for one week, with measurements of blood pressure, oral nitrate-reducing bacteria, and plasma nitrite levels before and after.[^4]
 
 The results:
 
@@ -65,7 +65,7 @@ A 2-3 mmHg increase in systolic blood pressure might not sound like much. But at
 
 Other studies have corroborated this finding:
 
-- A 2017 study found that antiseptic mouthwash blunted the blood pressure-lowering effects of exercise, which also works partly through nitric oxide pathways
+- A 2017 study found that antiseptic mouthwash blunted the blood pressure-lowering effects of exercise, which also works partly through nitric oxide pathways[^5]
 - A large observational study found an association between regular antiseptic mouthwash use and increased risk of developing hypertension over time
 
 The mechanism is clear: antiseptic mouthwashes disrupt the entero-salivary nitrate-nitrite-nitric oxide pathway by killing the oral bacteria that perform the first step.
@@ -86,9 +86,9 @@ The mechanism would be plausible: alcohol is a known carcinogen, the oral mucosa
 
 The evidence is genuinely mixed:
 
-- A 2009 review and meta-analysis found a "statistically significant association" between mouthwash use and oral cancer
+- A 2009 review and meta-analysis found a "statistically significant association" between mouthwash use and oral cancer[^6]
 - However, subsequent reviews questioned the methodology, noting that many studies didn't adequately control for smoking and alcohol drinking—the major risk factors for oral cancer
-- A 2016 position paper from the Australian Dental Association concluded that "there is insufficient evidence that alcohol-containing mouthrinses contribute to oral cancer risk in non-smokers and non-drinkers"
+- A 2016 position paper from the Australian Dental Association concluded that "there is insufficient evidence that alcohol-containing mouthrinses contribute to oral cancer risk in non-smokers and non-drinkers"[^7]
 
 My read of the evidence: for non-smokers who don't drink heavily, the oral cancer risk from alcohol-containing mouthwash is probably small or nonexistent. But "probably small" isn't the same as "none," and the uncertainty should give pause.
 
@@ -159,3 +159,17 @@ There are better approaches. They're older approaches, in many cases. They work 
 *Which brings us to the paradigm shift that's underway—from warfare to stewardship, from scorched earth to ecosystem management.*
 
 ---
+
+[^1]: James, P., et al. (2017). Chlorhexidine mouthrinse as an adjunctive treatment for gingival health. *Cochrane Database of Systematic Reviews*, 3, CD008676.
+
+[^2]: Gunsolley, J. C. (2006). A meta-analysis of six-month studies of antiplaque and antigingivitis agents. *Journal of the American Dental Association*, 137(12), 1649-1657.
+
+[^3]: Bescos, R., et al. (2020). Effects of chlorhexidine mouthwash on the oral microbiome. *Scientific Reports*, 10(1), 5254.
+
+[^4]: Tribble, G. D., et al. (2019). Frequency of tongue cleaning impacts the human tongue microbiome composition and enterosalivary circulation of nitrate. *Frontiers in Cellular and Infection Microbiology*, 9, 39.
+
+[^5]: Cutler, C., et al. (2019). Post-exercise hypotension and skeletal muscle oxygenation is regulated by nitrate-reducing activity of oral bacteria. *Free Radical Biology and Medicine*, 143, 252-259.
+
+[^6]: McCullough, M. J., & Farah, C. S. (2008). The role of alcohol in oral carcinogenesis with particular reference to alcohol-containing mouthwashes. *Australian Dental Journal*, 53(4), 302-305.
+
+[^7]: Australian Dental Association. (2009). Policy Statement: Alcohol-containing mouthwashes and oral cancer.

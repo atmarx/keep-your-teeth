@@ -22,7 +22,7 @@ The matrix does several things:
 
 **Communication hub:** The matrix facilitates quorum sensing—chemical communication between bacteria that allows them to coordinate behavior, including upregulating resistance genes.
 
-The result is that bacteria in a mature biofilm can be 100 to 1,000 times more resistant to antimicrobial agents than the same bacteria in their planktonic (free-floating) state. That chlorhexidine mouthwash that kills *S. mutans* in a test tube? It's far less effective against *S. mutans* embedded in plaque.
+The result is that bacteria in a mature biofilm can be 100 to 1,000 times more resistant to antimicrobial agents than the same bacteria in their planktonic (free-floating) state.[^1] That chlorhexidine mouthwash that kills *S. mutans* in a test tube? It's far less effective against *S. mutans* embedded in plaque.
 
 ## The Solution: Physical Disruption
 
@@ -40,7 +40,7 @@ The toothbrush—whether manual or powered—is still the foundation of mechanic
 
 ### Duration Matters More Than Pressure
 
-Most people brush for about 45 seconds. Dental recommendations call for 2 minutes minimum. This isn't arbitrary—it takes time to access all surfaces adequately.
+Most people brush for about 45 seconds.[^2] Dental recommendations call for 2 minutes minimum. This isn't arbitrary—it takes time to access all surfaces adequately.
 
 Pressing harder doesn't compensate for rushing. In fact, aggressive brushing can:
 - Cause gum recession
@@ -51,7 +51,7 @@ The goal is gentle, thorough, systematic coverage—not intense scrubbing.
 
 ### Technique Matters
 
-The "Modified Bass Technique" is what most dental professionals recommend:
+The "Modified Bass Technique"[^3] is what most dental professionals recommend:
 
 1. Angle the brush 45 degrees toward the gumline
 2. Use short, gentle back-and-forth strokes
@@ -63,7 +63,7 @@ The 45-degree angle is important because it directs bristles into the gingival s
 
 ### Powered vs. Manual
 
-Systematic reviews show that oscillating-rotating powered brushes (like Oral-B's) have a modest but consistent advantage over manual brushing for plaque removal and gingivitis reduction. Sonic brushes (like Philips Sonicare) also perform well.
+Systematic reviews show that oscillating-rotating powered brushes (like Oral-B's) have a modest but consistent advantage over manual brushing for plaque removal and gingivitis reduction.[^4] Sonic brushes (like Philips Sonicare) also perform well.
 
 The advantage isn't huge, but it's real. Powered brushes may particularly help people with limited manual dexterity, people who tend to brush too hard (many powered brushes have pressure sensors), and anyone who benefits from the built-in 2-minute timers.
 
@@ -75,7 +75,7 @@ Here's something counterintuitive: you shouldn't brush immediately after consumi
 
 When you consume something acidic—citrus, wine, soda, tomato sauce—the enamel surface becomes temporarily softened. The acid has begun the demineralization process, creating a partially dissolved outer layer. Brushing at this moment can physically scrub away the softened enamel.
 
-Wait 30 minutes. During that time, saliva will buffer the acid and begin remineralizing the softened surface. The enamel re-hardens, and brushing becomes safe again.
+Wait 30 minutes.[^5] During that time, saliva will buffer the acid and begin remineralizing the softened surface. The enamel re-hardens, and brushing becomes safe again.
 
 If you want to do something immediately after acidic exposure, rinse with plain water or a baking soda solution (to neutralize acid). Just don't brush.
 
@@ -109,7 +109,7 @@ Most people just snap floss up and down between teeth without actually curving i
 
 If you struggle with traditional floss, alternatives exist:
 
-**Interdental brushes:** Small bottle-brush-shaped tools that clean between teeth. Often more effective than floss for people with gaps between teeth or gum recession. Studies suggest they may be as effective or more effective than floss for many people.
+**Interdental brushes:** Small bottle-brush-shaped tools that clean between teeth. Often more effective than floss for people with gaps between teeth or gum recession. Studies suggest they may be as effective or more effective than floss for many people.[^6]
 
 **Floss picks:** Pre-threaded floss on a plastic handle. Easier to use than string floss, though the technique is still important. Better than not flossing.
 
@@ -158,3 +158,15 @@ This is why the combination approach—mechanical disruption plus ecological rin
 In the next chapter, we'll dive deep into water flossers—devices that combine mechanical disruption with solution delivery in a way that traditional methods can't match.
 
 ---
+
+[^1]: Stewart, P. S., & Costerton, J. W. (2001). Antibiotic resistance of bacteria in biofilms. *The Lancet*, 358(9276), 135-138. Biofilm bacteria can tolerate antimicrobial concentrations 100-1,000 times higher than planktonic cells.
+
+[^2]: 45 seconds is a commonly cited average brushing duration. The American Dental Association recommends brushing for two minutes, twice daily.
+
+[^3]: [Bass technique](https://en.wikipedia.org/wiki/Bass_technique) — Wikipedia. A toothbrushing method developed by Dr. Charles Bass, designed to clean the gingival sulcus effectively using a 45-degree bristle angle.
+
+[^4]: ["Powered toothbrushes compared to manual toothbrushes for maintaining oral health"](https://www.cochrane.org/CD002281/ORAL_powered-toothbrushes-compared-manual-toothbrushes-maintaining-oral-health) — Cochrane Systematic Review (2014). Found oscillating-rotating brushes reduce plaque 11% more and gingivitis 6% more than manual brushing.
+
+[^5]: Attin, T., et al. (2004). Toothbrushing abrasion of softened enamel. *Caries Research*, 38(6), 567-571. Waiting at least 30 minutes after acid exposure allows salivary remineralization before brushing.
+
+[^6]: Slot, D. E., et al. (2008). The efficacy of interdental brushes on plaque and parameters of periodontal inflammation. *International Journal of Dental Hygiene*, 6(4), 253-264. Interdental brushes showed greater plaque reduction than floss in accessible embrasures.

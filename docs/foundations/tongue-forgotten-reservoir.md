@@ -12,7 +12,7 @@ And while most discussions of oral health focus on teeth and gums, neglecting th
 
 Your tongue's upper surface—the dorsum—is covered with small projections called **papillae**. Several types exist:
 
-**Filiform papillae** are the most numerous. They're tiny, threadlike structures that give the tongue its slightly rough texture. They don't contain taste buds; their function is mechanical, helping grip and manipulate food. From a microbial perspective, they're significant because they create an enormous surface area—a landscape of valleys and crevices where bacteria can shelter.
+**Filiform papillae**[^1] are the most numerous. They're tiny, threadlike structures that give the tongue its slightly rough texture. They don't contain taste buds; their function is mechanical, helping grip and manipulate food. From a microbial perspective, they're significant because they create an enormous surface area—a landscape of valleys and crevices where bacteria can shelter.
 
 **Fungiform papillae** are larger, mushroom-shaped structures scattered across the tongue surface. These contain taste buds.
 
@@ -56,11 +56,11 @@ The tongue is essentially performing a metabolic function for your whole body. T
 
 ## Tongue Coating and Halitosis
 
-Let's talk about bad breath. **Halitosis**—chronic bad breath—affects an estimated 25-30% of the global population and is one of the most common reasons people use mouthwash.
+Let's talk about bad breath. **Halitosis**—chronic bad breath—affects an estimated 25-30% of the global population[^2] and is one of the most common reasons people use mouthwash.
 
 The cause, in most cases, is bacterial metabolism on the tongue.
 
-Specifically, **anaerobic bacteria** in tongue coating metabolize proteins (from food debris, dead cells, and mucus) through a process that generates **volatile sulfur compounds (VSCs)**:
+Specifically, **anaerobic bacteria** in tongue coating metabolize proteins (from food debris, dead cells, and mucus) through a process that generates **volatile sulfur compounds (VSCs)**:[^3]
 
 - **Hydrogen sulfide (H₂S)** — rotten egg smell
 - **Methyl mercaptan (CH₃SH)** — fecal/sulfurous smell  
@@ -70,7 +70,7 @@ These compounds are volatile, meaning they escape into the air you exhale. Even 
 
 The bacteria responsible—*Fusobacterium*, *Porphyromonas*, *Prevotella*, and others—tend to accumulate in the thick coating that develops on the posterior tongue, where cleaning is difficult and conditions are anaerobic.
 
-**Tongue cleaning** is the most effective treatment for halitosis originating from the tongue (which accounts for 80-90% of all oral malodor). Studies consistently show that mechanical removal of tongue coating reduces VSC levels more effectively than mouthwash alone.
+**Tongue cleaning** is the most effective treatment for halitosis originating from the tongue (which accounts for 80-90% of all oral malodor).[^4] Studies consistently show that mechanical removal of tongue coating reduces VSC levels more effectively than mouthwash alone.
 
 But here's the nuance: the goal isn't to remove all bacteria. It's to remove the accumulated debris—dead cells, food particles, mucus—that fuels VSC-producing metabolism, while leaving the underlying healthy community reasonably intact.
 
@@ -80,7 +80,7 @@ If you're going to clean your tongue, here's how to do it effectively without ca
 
 **Instrument choice:**
 
-A dedicated **tongue scraper**—a curved plastic or metal device designed to conform to the tongue surface—is more effective than a toothbrush. The flat edge removes coating more efficiently than bristles, which tend to push debris around.
+A dedicated **tongue scraper**—a curved plastic or metal device designed to conform to the tongue surface—is more effective than a toothbrush.[^5] The flat edge removes coating more efficiently than bristles, which tend to push debris around.
 
 If using a toothbrush, use gentle pressure. The tongue doesn't need aggressive scrubbing, and excessive force can irritate the papillae.
 
@@ -124,7 +124,7 @@ While some tongue coating is normal, **unusually thick or persistent coating** c
 
 **Oral candidiasis** (yeast infection) produces a white coating that differs from normal bacterial coating—it may appear patchy, can be wiped off to reveal red tissue beneath, and may be associated with burning sensations.
 
-**Black hairy tongue** is a condition where filiform papillae become elongated and stained by bacteria, tobacco, coffee, or bismuth-containing products (like Pepto-Bismol). It looks alarming but is usually harmless and reversible with improved oral hygiene.
+**Black hairy tongue**[^6] is a condition where filiform papillae become elongated and stained by bacteria, tobacco, coffee, or bismuth-containing products (like Pepto-Bismol). It looks alarming but is usually harmless and reversible with improved oral hygiene.
 
 If tongue coating is accompanied by pain, burning, difficulty swallowing, or systemic symptoms, medical evaluation is appropriate.
 
@@ -134,7 +134,7 @@ Beyond nitrate reduction and halitosis, the tongue has increasingly recognized c
 
 **The tongue as a diagnostic surface:** Traditional Chinese Medicine has used tongue appearance as a diagnostic tool for thousands of years. While some of these associations may be pattern-recognition without clear mechanism, modern research is finding some correlations. Tongue coating characteristics have been associated with diabetes, gastric conditions, and even cancer in various studies.
 
-**The tongue as a bacterial source:** Tongue bacteria can enter the respiratory tract (through aspiration) and have been implicated in respiratory infections and pneumonia, particularly in elderly or hospitalized patients. In this population, tongue cleaning may be a legitimate preventive intervention.
+**The tongue as a bacterial source:** Tongue bacteria can enter the respiratory tract (through aspiration) and have been implicated in respiratory infections and pneumonia, particularly in elderly or hospitalized patients.[^7] In this population, tongue cleaning may be a legitimate preventive intervention.
 
 **The tongue and inflammation:** Heavy tongue coating correlates with elevated inflammatory markers in some studies, though causality is unclear—the coating might be a marker of underlying inflammation rather than a cause.
 
@@ -157,3 +157,17 @@ We've now completed our tour of the foundations: the crystal that forms your ena
 With this understanding in place, we can now turn to history: how did we develop our current approaches to oral health, and why are they increasingly being questioned?
 
 ---
+
+[^1]: [Lingual papillae](https://en.wikipedia.org/wiki/Lingual_papillae) — Wikipedia. Filiform papillae are the most numerous type and give the tongue its characteristic texture.
+
+[^2]: Yaegaki, K., & Coil, J. M. (2000). Examination, classification, and treatment of halitosis; clinical perspectives. *Journal of the Canadian Dental Association*, 66(5), 257-261.
+
+[^3]: Tonzetich, J. (1977). Production and origin of oral malodor: a review of mechanisms and methods of analysis. *Journal of Periodontology*, 48(1), 13-20. Volatile sulfur compounds are the primary cause of oral malodor.
+
+[^4]: [Bad breath](https://en.wikipedia.org/wiki/Bad_breath) — Wikipedia. The dorsum of the tongue is the primary source of oral malodor in 80-90% of cases.
+
+[^5]: Pedrazzi, V., et al. (2004). Tongue-cleaning methods: a comparative clinical trial employing a toothbrush and a tongue scraper. *Journal of Periodontology*, 75(7), 1009-1012.
+
+[^6]: [Black hairy tongue](https://en.wikipedia.org/wiki/Black_hairy_tongue) — Wikipedia. A benign condition caused by defective desquamation and reactive hypertrophy of filiform papillae.
+
+[^7]: Abe, S., et al. (2008). Professional oral care reduces influenza infection in elderly. *Archives of Gerontology and Geriatrics*, 43(2), 157-164.

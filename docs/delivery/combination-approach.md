@@ -32,7 +32,7 @@ This is the minimum effective routine—what I'd recommend to someone who wants 
    - Modified Bass technique
    - Cover all surfaces systematically
 
-3. **Spit, don't rinse**
+3. **Spit, don't rinse**[^1]
    - Spit out excess toothpaste
    - Do NOT rinse with water
    - Leave fluoride residue on teeth for continued exposure
@@ -212,7 +212,7 @@ Some additional notes on *when* to do things:
 
 ### The 30-Minute Acid Rule
 
-After consuming acidic foods or beverages (citrus, wine, tomatoes, vinegar, carbonated drinks):
+After consuming acidic foods or beverages (citrus, wine, tomatoes, vinegar, carbonated drinks):[^2]
 - DON'T brush immediately
 - DO rinse with plain water or baking soda solution
 - Wait 30 minutes, then brush if desired
@@ -221,7 +221,7 @@ This protects softened enamel from abrasion.
 
 ### The Fluoride Contact Window
 
-The longer fluoride stays in contact with teeth, the more effective it is. This is why "spit, don't rinse" matters. The residual fluoride film continues to:
+The longer fluoride stays in contact with teeth, the more effective it is.[^3] This is why "spit, don't rinse" matters. The residual fluoride film continues to:
 - Participate in remineralization
 - Incorporate into enamel as fluorapatite
 - Inhibit bacterial metabolism
@@ -241,7 +241,7 @@ This way, each intervention can work without interfering with the other.
 
 ### Pre-Sleep Priority
 
-Overnight is the most vulnerable period:
+Overnight is the most vulnerable period:[^4]
 - Saliva flow drops dramatically during sleep
 - Acid buffering capacity is reduced
 - Remineralization potential is diminished
@@ -290,3 +290,11 @@ This is a comprehensive approach—but it's also practical. The enhanced protoco
 And you're keeping more of your teeth in your mouth, where they belong. Which means I get to collect fewer of them—and that, as I've told you, is what I really want.
 
 ---
+
+[^1]: The "spit, don't rinse" recommendation comes from Public Health England (2014) and is based on evidence that rinsing immediately after brushing reduces the caries-preventive effect of fluoride toothpaste.
+
+[^2]: Attin, T., et al. (2004). Toothbrushing abrasion of softened enamel. *Caries Research*, 38(6), 567-571. Demonstrated that brushing acid-softened enamel causes significantly more enamel wear than brushing remineralized enamel.
+
+[^3]: Zero, D. T. (2006). Dentifrices, mouthwashes, and remineralization/caries arrestment strategies. *BMC Oral Health*, 6(Suppl 1), S9. Extended fluoride contact time enhances uptake into enamel and prolongs antimicrobial effects.
+
+[^4]: [Xerostomia](https://en.wikipedia.org/wiki/Xerostomia) — Wikipedia. Saliva production decreases significantly during sleep, reducing its protective buffering, antimicrobial, and remineralization functions.

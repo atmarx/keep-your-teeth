@@ -12,7 +12,7 @@ Ginger is one of the oldest and most widely used medicinal plants on Earth. It a
 
 The primary bioactive components in ginger are:
 
-**Gingerols:** These are the fresh ginger compounds, with 6-gingerol being the most abundant. They're responsible for the pungency of fresh ginger and have significant anti-inflammatory and antimicrobial properties.
+**Gingerols:** These are the fresh ginger compounds, with 6-gingerol being the most abundant.[^1] They're responsible for the pungency of fresh ginger and have significant anti-inflammatory and antimicrobial properties.
 
 **Shogaols:** When ginger is dried or heated, gingerols convert to shogaols. These are actually more potent than gingerols for some effects. 6-shogaol has strong anti-inflammatory activity.
 
@@ -22,7 +22,7 @@ The primary bioactive components in ginger are:
 
 ### Mechanisms for Oral Health
 
-**Anti-inflammatory action:** Gingerols and shogaols inhibit cyclooxygenase (COX) and lipoxygenase (LOX) pathways—the same inflammatory cascades targeted by NSAIDs like ibuprofen. They reduce prostaglandin and leukotriene synthesis, decreasing inflammation in gum tissue.
+**Anti-inflammatory action:** Gingerols and shogaols inhibit cyclooxygenase (COX) and lipoxygenase (LOX) pathways[^2]—the same inflammatory cascades targeted by NSAIDs like ibuprofen. They reduce prostaglandin and leukotriene synthesis, decreasing inflammation in gum tissue.
 
 **Antimicrobial effects:** Ginger extracts have demonstrated activity against various oral pathogens in laboratory studies, including *Porphyromonas gingivalis* and *Prevotella intermedia*—both periodontal pathogens. The mechanism appears to involve membrane disruption.
 
@@ -56,7 +56,7 @@ A close relative of ginger, turmeric is the bright yellow spice that colors curr
 
 ### The Active Compound: Curcumin
 
-Curcumin is a polyphenol with remarkable anti-inflammatory and antioxidant properties. It inhibits NF-κB, a master regulator of inflammatory gene expression. It modulates multiple inflammatory pathways simultaneously.
+Curcumin is a polyphenol with remarkable anti-inflammatory and antioxidant properties. It inhibits NF-κB, a master regulator of inflammatory gene expression.[^3] It modulates multiple inflammatory pathways simultaneously.
 
 ### The Oral Health Connection
 
@@ -107,7 +107,7 @@ Galangal is harder to find than ginger but available at Asian groceries. It can 
 
 What these roots share, beyond their botanical family, is a "warming" quality recognized in traditional medicine systems. In Ayurveda, Traditional Chinese Medicine, and other traditions, warming herbs are used to stimulate circulation, reduce stagnation, and resolve inflammation.
 
-Modern chemistry validates this: the pungent compounds in these rhizomes activate TRP channels (particularly TRPV1 and TRPA1), creating sensations of warmth and stimulating blood flow to tissues. They genuinely do increase local circulation when applied topically.
+Modern chemistry validates this: the pungent compounds in these rhizomes activate TRP channels (particularly TRPV1 and TRPA1), creating sensations of warmth and stimulating blood flow to tissues.[^4] They genuinely do increase local circulation when applied topically.
 
 For oral health, this may translate to:
 - Improved nutrient delivery to gum tissue
@@ -162,3 +162,11 @@ For detailed monographs on the herbs discussed in this chapter, see herbalist Ri
 - [Cayenne](https://www.rjwhelan.co.nz/herbs A-Z/cayenne.html) — Another warming root with circulatory and anti-inflammatory properties
 
 ---
+
+[^1]: [Gingerol](https://en.wikipedia.org/wiki/Gingerol) — Wikipedia. The primary pungent compound in fresh ginger, responsible for its characteristic bite and many of its medicinal properties.
+
+[^2]: Grzanna, R., et al. (2005). Ginger—an herbal medicinal product with broad anti-inflammatory actions. *Journal of Medicinal Food*, 8(2), 125-132. Documented COX and LOX inhibition by ginger compounds.
+
+[^3]: [Curcumin](https://en.wikipedia.org/wiki/Curcumin) — Wikipedia. The principal curcuminoid of turmeric, with documented effects on NF-κB and multiple inflammatory pathways.
+
+[^4]: [TRP channels](https://en.wikipedia.org/wiki/Transient_receptor_potential_channel) — Wikipedia. Ion channels activated by temperature, chemicals, and mechanical stimuli. TRPV1 responds to capsaicin and gingerols, creating sensations of warmth.

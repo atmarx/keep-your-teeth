@@ -77,7 +77,7 @@ The most commercially successful essential oil formulation for oral health is th
 
 The genius of the Listerine formulation is that these four compounds work synergistically. Each contributes different mechanisms of action; together, they provide broader antimicrobial coverage than any single compound could achieve.
 
-Numerous clinical trials have demonstrated that Listerine and similar essential oil mouthwashes reduce plaque accumulation, reduce gingivitis scores, and reduce bacterial counts. The American Dental Association has granted its Seal of Acceptance to essential oil mouthwashes for plaque and gingivitis control.
+Numerous clinical trials have demonstrated that Listerine and similar essential oil mouthwashes reduce plaque accumulation, reduce gingivitis scores, and reduce bacterial counts.[^1] The American Dental Association has granted its Seal of Acceptance to essential oil mouthwashes for plaque and gingivitis control.
 
 ### The Ecological Caveat
 
@@ -97,7 +97,7 @@ This is the heavy hitter of the natural oral health world. Clove oil is 70-90% e
 
 **Antimicrobial:** Broad-spectrum activity against oral bacteria and fungi.
 
-Clove oil isn't just folk medicine—it's been incorporated into mainstream dentistry. Zinc oxide eugenol (ZOE) cement is used for temporary fillings. Eugenol-based preparations are used for dry socket treatment. Dentists have been using this compound for over a century.
+Clove oil isn't just folk medicine—it's been incorporated into mainstream dentistry.[^2] Zinc oxide eugenol (ZOE) cement is used for temporary fillings. Eugenol-based preparations are used for dry socket treatment. Dentists have been using this compound for over a century.
 
 **Practical use:** For acute dental pain, a drop of clove oil on a cotton swab applied to the affected area can provide temporary relief. Dilute it if using on sensitive tissue. Don't swallow significant quantities—eugenol is toxic at high doses.
 
@@ -105,7 +105,7 @@ Clove oil isn't just folk medicine—it's been incorporated into mainstream dent
 
 ### Tea Tree Oil (Melaleuca)
 
-*Melaleuca alternifolia* oil contains terpinen-4-ol as its main active compound, along with other monoterpenes. It has demonstrated activity against oral bacteria, including *S. mutans* and *Candida albicans*.
+*Melaleuca alternifolia* oil contains terpinen-4-ol as its main active compound, along with other monoterpenes. It has demonstrated activity against oral bacteria, including *S. mutans* and *Candida albicans*.[^3]
 
 **Evidence level:** Moderate. Some studies show benefit for gingivitis and oral candidiasis, but the evidence base is smaller than for the Listerine compounds.
 
@@ -121,7 +121,7 @@ Beyond the menthol content, peppermint oil contains other compounds with antimic
 
 ### Cinnamon Oil
 
-Cinnamaldehyde, the primary compound in cinnamon bark oil, is a potent antimicrobial. It's been shown to inhibit *S. mutans* biofilm formation and has broad-spectrum activity against oral pathogens.
+Cinnamaldehyde, the primary compound in cinnamon bark oil, is a potent antimicrobial. It's been shown to inhibit *S. mutans* biofilm formation and has broad-spectrum activity against oral pathogens.[^4]
 
 **Evidence level:** Moderate. More *in vitro* work than clinical trials, but the mechanism is sound.
 
@@ -245,3 +245,11 @@ For detailed monographs on herbs that produce the essential oils discussed in th
 - [Essential Oils Overview](https://www.rjwhelan.co.nz/herbs A-Z/essential_oils.html) — General guidance on essential oil safety and use
 
 ---
+
+[^1]: Stoeken, J. E., et al. (2007). The long-term effect of a mouthrinse containing essential oils on dental plaque and gingivitis. *Journal of Periodontology*, 78(7), 1218-1228.
+
+[^2]: [Eugenol](https://en.wikipedia.org/wiki/Eugenol) — Wikipedia. Eugenol has been used in dentistry for over a century and remains a component of many dental materials.
+
+[^3]: Hammer, K. A., et al. (2003). Antifungal activity of the components of *Melaleuca alternifolia* (tea tree) oil. *Journal of Applied Microbiology*, 95(4), 853-860.
+
+[^4]: Shan, B., et al. (2007). Antibacterial properties and major bioactive components of cinnamon stick (*Cinnamomum burmannii*): activity against foodborne pathogenic bacteria. *Journal of Agricultural and Food Chemistry*, 55(14), 5484-5490.

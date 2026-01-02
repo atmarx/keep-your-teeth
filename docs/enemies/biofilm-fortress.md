@@ -30,7 +30,7 @@ This matrix isn't just passive packaging. It's functional infrastructure:
 
 **Nutrient management:** Channels within the biofilm allow water and nutrients to circulate, while the matrix retains useful molecules and enzymes.
 
-**Communication:** Bacteria within biofilms engage in **quorum sensing**—chemical communication that coordinates behavior across the community. When enough bacteria are present, chemical signals trigger changes in gene expression that wouldn't occur in isolated cells.
+**Communication:** Bacteria within biofilms engage in **quorum sensing**[^1]—chemical communication that coordinates behavior across the community. When enough bacteria are present, chemical signals trigger changes in gene expression that wouldn't occur in isolated cells.
 
 **Genetic exchange:** Biofilm proximity facilitates the exchange of genetic material between bacteria, including antibiotic resistance genes.
 
@@ -67,7 +67,7 @@ Early colonizers begin producing EPS, creating the matrix that will structure al
 
 Once the pioneer species establish the biofilm foundation, other bacteria can attach—not to the tooth surface (which is now covered), but to the early colonizers themselves.
 
-**Co-aggregation** is the process by which bacteria of different species physically bind to each other. *Fusobacterium nucleatum* is a crucial bridge organism: it has surface molecules that can bind to both early colonizers and later-arriving anaerobes that couldn't attach directly to the initial biofilm.
+**Co-aggregation**[^2] is the process by which bacteria of different species physically bind to each other. *Fusobacterium nucleatum* is a crucial bridge organism: it has surface molecules that can bind to both early colonizers and later-arriving anaerobes that couldn't attach directly to the initial biofilm.
 
 Secondary colonizers include:
 
@@ -106,7 +106,7 @@ For a chemical agent to kill bacteria deep in biofilm, it must:
 
 Each of these steps reduces the effective dose. By the time an antimicrobial reaches bacteria 50-100 micrometers into the biofilm, concentrations may be a fraction of the surface concentration.
 
-Studies have shown that bacteria deep in biofilms can survive antimicrobial concentrations 100-1,000 times higher than would kill the same bacteria floating freely in solution.
+Studies have shown that bacteria deep in biofilms can survive antimicrobial concentrations 100-1,000 times higher than would kill the same bacteria floating freely in solution.[^3]
 
 ### Chemical Neutralization
 
@@ -159,7 +159,7 @@ Given the importance of mechanical removal, tools and techniques that improve di
 
 Water flossers (like Waterpik) don't just rinse—they deliver pulsating streams that create **hydraulic turbulence**. The rapid compression-decompression cycles stress the biofilm structure, weakening and dislodging it.
 
-Studies using tracer dyes show water flossers penetrate deeper into sulcular areas than rinsing alone:
+Studies using tracer dyes show water flossers penetrate deeper into sulcular areas than rinsing alone:[^4]
 
 - Conventional rinsing: ~1 mm penetration
 - Water flosser at gumline: ~3-4 mm penetration
@@ -169,7 +169,7 @@ This deeper reach means you're disrupting biofilm in areas that brushes and stri
 
 ### Brush Technique
 
-Not all brushing is equal. The **modified Bass technique** (angling bristles toward the gumline at 45 degrees and using short vibrating strokes) disrupts biofilm at the critical gumline junction where disease often starts.
+Not all brushing is equal. The **modified Bass technique**[^5] (angling bristles toward the gumline at 45 degrees and using short vibrating strokes) disrupts biofilm at the critical gumline junction where disease often starts.
 
 Electric toothbrushes with oscillating-rotating or sonic action provide more brush strokes per minute than manual brushing, potentially improving disruption—though technique still matters.
 
@@ -214,3 +214,13 @@ Understanding biofilm is understanding why the simplest tools—brush, floss, pe
 Part III has explained what you're actually defending against: acid (especially frequent or prolonged exposure), sugar (especially frequent consumption), and biofilm (which requires physical disruption). With these enemies understood, we can now turn to the tools of defense—starting with that simple, powerful combination of salt and baking soda.
 
 ---
+
+[^1]: [Quorum sensing](https://en.wikipedia.org/wiki/Quorum_sensing) — Wikipedia. A cell-to-cell communication mechanism used by bacteria to coordinate behavior based on population density.
+
+[^2]: Kolenbrander, P. E., et al. (2010). Oral multispecies biofilm development and the key role of cell–cell distance. *Nature Reviews Microbiology*, 8(7), 471-480.
+
+[^3]: Stewart, P. S., & Costerton, J. W. (2001). Antibiotic resistance of bacteria in biofilms. *The Lactyet*, 358(9276), 135-138.
+
+[^4]: Cobb, C. M., et al. (1988). Ultrastructural examination of human periodontal pockets following the use of an oral irrigation device in vivo. *Journal of Periodontology*, 59(3), 155-163.
+
+[^5]: [Bass technique](https://en.wikipedia.org/wiki/Bass_technique) — Wikipedia. A toothbrushing method designed to clean the gingival sulcus effectively.
