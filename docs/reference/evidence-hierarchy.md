@@ -21,17 +21,17 @@ Not all evidence is created equal. Scientific evidence exists in a hierarchy, fr
              /--------------\
             / Cohort Studies \
            /------------------\
-          / Case-Control Studies\
+          /Case-Control Studies\
          /----------------------\
         /    Case Reports &      \
        /     Case Series          \
-      /--------------------------\
-     /    In Vitro & Animal       \
-    /        Studies               \
-   /------------------------------\
-  /   Mechanistic Reasoning &      \
- /    Expert Opinion                \
-/------------------------------------\
+      /----------------------------\
+     /      In Vitro & Animal       \
+    /          Studies               \
+   /----------------------------------\
+  /       Mechanistic Reasoning &      \
+ /        Expert Opinion                \
+/----------------------------------------\
 ```
 
 **From bottom to top:**
@@ -52,6 +52,12 @@ Not all evidence is created equal. Scientific evidence exists in a hierarchy, fr
 
 ### Level 2: In Vitro and Animal Studies
 
+!!! warning inline end "Red flags to beware of"
+
+    - Claims based solely on in vitro studies ("kills bacteria in the lab!")
+    - Extrapolating animal results directly to humans
+    - Ignoring concentration differences between lab and clinical use
+
 **What it is:** Studies conducted in test tubes, petri dishes, or laboratory animals.
 
 **Example:** "Compound X killed *S. mutans* in a petri dish at concentrations of 0.1%."
@@ -60,10 +66,6 @@ Not all evidence is created equal. Scientific evidence exists in a hierarchy, fr
 
 **Weakness:** The petri dish is not a mouth. Concentrations that work in the lab may be impossible to achieve in vivo. The mouse is not a human. Bioavailability, tissue penetration, and metabolism all affect whether laboratory effects translate to clinical reality.
 
-**Red flags:**
-- Claims based solely on in vitro studies ("kills bacteria in the lab!")
-- Extrapolating animal results directly to humans
-- Ignoring concentration differences between lab and clinical use
 
 **The Tooth Fairy's note:** A lot of the essential oil and botanical research is at this level. The antimicrobial effects are real in the lab; whether they matter in your mouth is a different question.
 
@@ -116,6 +118,7 @@ Not all evidence is created equal. Scientific evidence exists in a hierarchy, fr
 **Weakness:** Expensive; may not be feasible for some questions; artificial conditions may not reflect real-world use.
 
 **Key questions to ask:**
+
 - How were participants randomized?
 - Was the study double-blinded?
 - How many participants completed the study?
@@ -135,6 +138,7 @@ Not all evidence is created equal. Scientific evidence exists in a hierarchy, fr
 **Weakness:** Only as good as the underlying studies; publication bias means positive studies are more likely to be published.
 
 **The gold standard organizations:**
+
 - **Cochrane Collaboration:** Produces the most rigorous systematic reviews in healthcare
 - **PRISMA guidelines:** Standard for how systematic reviews should be conducted and reported
 
@@ -200,6 +204,7 @@ Clinical trials are expensive—often millions of dollars for a single RCT. Phar
 No one makes money from these, so no one funds rigorous trials. This creates a systematic bias in the evidence base toward patentable, profitable interventions.
 
 This is why I've tried, throughout this book, to:
+
 1. Distinguish between "no evidence" and "evidence of no effect"
 2. Give traditional remedies the benefit of biological plausibility when mechanisms are sound
 3. Be transparent about the evidence level for each claim
