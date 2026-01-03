@@ -102,6 +102,7 @@ Embed attribution in the image description using HTML links with **single quotes
 ```
 
 **Why this format:**
+
 - GLightbox displays alt text as the lightbox caption when image is clicked
 - HTML links with single quotes work inside markdown image alt text
 - Attribution is always visible when user enlarges the image

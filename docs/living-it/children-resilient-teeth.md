@@ -322,6 +322,7 @@ This is where the fluoride controversy matters most. Children's developing teeth
 **Risk:** Minimal from appropriate use.
 
 **Sources:**
+
 - Fluoride toothpaste
 - Fluoride rinses
 - Professional fluoride applications

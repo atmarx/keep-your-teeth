@@ -192,6 +192,7 @@ Clove oil (eugenol) provides genuine analgesic effect for dental pain. This is a
 2. Apply as above
 
 **Cautions:**
+
 - Clove oil can cause tissue irritation with prolonged or repeated use
 - Do not swallow significant amounts
 - This numbs pain but does not treat the underlying cause

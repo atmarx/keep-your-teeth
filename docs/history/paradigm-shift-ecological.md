@@ -147,22 +147,26 @@ The goal is antimicrobial action without collateral damage—removing problemati
 What does the ecological paradigm mean for practical oral health?
 
 **For daily care:**
+
 - Move away from routine antiseptic mouthwashes
 - Consider arginine-containing toothpastes
 - Use xylitol gum or mints regularly
 - Possibly use oral probiotics, especially if you have recurrent infections or high caries risk
 
 **For professional treatment:**
+
 - Reserve broad-spectrum antimicrobials for therapeutic situations
 - Consider microbial testing to understand individual community composition
 - Evaluate prebiotic and probiotic approaches as adjuncts
 
 **For research:**
+
 - Continue developing targeted interventions
 - Better characterize what constitutes a "healthy" oral microbiome (which varies between individuals)
 - Develop clinical trial endpoints that capture ecological outcomes, not just bacterial killing
 
 **For patients:**
+
 - Understand that your mouth is an ecosystem
 - Stop trying to sterilize and start trying to balance
 - Recognize that what you eat and when you eat affects your oral ecology

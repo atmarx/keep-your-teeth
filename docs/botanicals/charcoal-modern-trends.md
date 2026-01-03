@@ -17,12 +17,14 @@ Let's examine the reality.
 ### What Activated Charcoal Actually Does
 
 **The legitimate properties:**
+
 - Enormous surface area (500-3,000 m² per gram)
 - Excellent adsorption of organic molecules
 - Used medically to bind toxins in overdose situations
 - FDA-approved for specific medical indications
 
 **The oral health claims:**
+
 - Whitens teeth by adsorbing stains
 - Removes toxins from the mouth
 - Freshens breath by binding odor compounds

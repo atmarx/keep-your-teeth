@@ -99,6 +99,7 @@
 **What it is:** The family of calcium-phosphate salts that form the mineral basis of teeth and bone.
 
 **Key forms:**
+
 - **Hydroxyapatite [Ca₁₀(PO₄)₆(OH)₂]:** The primary mineral in enamel
 - **Fluorapatite [Ca₁₀(PO₄)₆F₂]:** Fluoride-substituted form, more acid-resistant
 - **Amorphous Calcium Phosphate (ACP):** Non-crystalline form used in some remineralization products
@@ -176,6 +177,7 @@
 **Key compound:** Eugenol (70-90% of clove oil)
 
 **Mechanisms:**
+
 - Analgesic (inhibits voltage-gated sodium channels—same mechanism as lidocaine)
 - Anti-inflammatory (COX-2 inhibition)
 - Antimicrobial (disrupts cell membranes)
@@ -218,6 +220,7 @@
 **General mechanisms:** Most essential oils with oral health evidence work through disruption of bacterial cell membranes due to their lipophilic nature and specific active compounds.
 
 **Key essential oils for oral health:**
+
 - Thyme oil (thymol)
 - Peppermint oil (menthol)
 - Eucalyptus oil (eucalyptol/1,8-cineole)
@@ -254,6 +257,7 @@
 **What it is:** The ionic form of fluorine, typically encountered as sodium fluoride (NaF), stannous fluoride (SnF₂), or sodium monofluorophosphate (MFP).
 
 **Mechanisms:**
+
 - Incorporates into enamel crystal, replacing hydroxyl groups
 - Creates fluorapatite, which is more acid-resistant than hydroxyapatite
 - Fluorapatite has a lower critical pH (~4.5 vs 5.5)
@@ -285,6 +289,7 @@
 **Key compounds:** Gingerols (fresh ginger), shogaols (dried/cooked ginger)
 
 **Mechanisms:**
+
 - Anti-inflammatory (inhibits COX and LOX pathways)
 - Antimicrobial (modest; disrupts membranes)
 - Antioxidant
@@ -393,6 +398,7 @@
 **What it is:** A teeth-cleaning twig, traditionally from *Salvadora persica* but also from other species (neem, olive, walnut).
 
 **Key compounds (in *Salvadora persica*):**
+
 - Benzyl isothiocyanate (antimicrobial)
 - Silica (abrasive)
 - Sodium bicarbonate (pH buffer)
@@ -427,6 +433,7 @@
 **What it is:** Synthetically produced hydroxyapatite particles at nanoscale (typically 20-100 nm diameter).
 
 **Proposed mechanisms:**
+
 - Direct deposition into enamel defects
 - Calcium/phosphate reservoir for remineralization
 - Integration into acquired pellicle
@@ -559,6 +566,7 @@
 **What it is:** A five-carbon sugar alcohol naturally found in many fruits and vegetables; commercially produced from birch or corn.
 
 **Mechanisms:**
+
 - Non-fermentable by *S. mutans* (they cannot metabolize it to produce acid)
 - *S. mutans* take up xylitol, wasting energy trying to process it—"futile cycling"
 - May disrupt *S. mutans* adhesion

@@ -59,20 +59,24 @@ These are associations, not proven causation. But the consistency across studies
 ### Proposed Mechanisms
 
 **Direct bacterial effects:**
+
 - *Porphyromonas gingivalis*, a keystone periodontal pathogen, has been found in atherosclerotic plaques
 - Periodontal bacteria can invade endothelial cells (the lining of blood vessels)
 - Bacterial products may directly damage arterial walls
 
 **Inflammatory amplification:**
+
 - Systemic inflammation from periodontitis may accelerate atherosclerosis
 - Elevated CRP and cytokines contribute to plaque instability
 - Inflammatory cascades may trigger thrombotic events
 
 **Molecular mimicry:**
+
 - Antibodies to certain periodontal bacteria may cross-react with heart proteins
 - This autoimmune component might explain some cardiac effects
 
 **The mouthwash-blood pressure connection:**
+
 - Remember the nitrate-reducing bacteria we discussed? They convert dietary nitrate to nitrite, which becomes nitric oxide—a vasodilator
 - Antiseptic mouthwash kills these bacteria
 - Studies show that regular antiseptic mouthwash use is associated with *higher blood pressure*[^3]

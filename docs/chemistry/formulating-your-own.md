@@ -11,6 +11,7 @@ I'll organize these from simplest to most elaborate, and I'll tell you when to u
 This is your everyday workhorse. Make a batch, store it in a jar, and it'll last indefinitely.
 
 **Ingredients:**
+
 - 4 tablespoons fine salt (any kind)
 - 2 tablespoons baking soda
 - 1 tablespoon calcium carbonate powder (optional)
@@ -24,6 +25,7 @@ This is your everyday workhorse. Make a batch, store it in a jar, and it'll last
 Add ½ to 1 teaspoon to 8 ounces of warm water. Stir until dissolved (the calcium carbonate won't fully dissolve—that's expected). Swish for 30-60 seconds, spit.
 
 **When to use:**
+
 - Daily maintenance (once or twice per day)
 - After meals
 - Before bed
@@ -36,6 +38,7 @@ This is your default. Everything else builds on this.
 When you've just eaten and want to neutralize acid quickly, you don't need the full formulation. This is stripped-down and fast.
 
 **Ingredients:**
+
 - 8 ounces water (warm or room temperature)
 - ¼ teaspoon baking soda
 
@@ -48,6 +51,7 @@ Stir the baking soda into the water until dissolved. Swish for 15-30 seconds. Sp
 The primary goal after eating is pH buffering—neutralizing the acid that bacteria are producing from the sugars you just consumed. Baking soda does this efficiently. You don't need the salt (osmotic effects aren't the priority here) or essential oils (you're going for speed, not antibacterial action).
 
 **When to use:**
+
 - Immediately after meals or snacks
 - After drinking acidic beverages (wine, citrus juice, soda)
 - After consuming sugary foods
@@ -60,6 +64,7 @@ Keep a small container of baking soda at work or in your bag for on-the-go use. 
 When your gums are inflamed, tender, or recovering from a procedure, you want the anti-edema effects of salt plus some anti-inflammatory botanical support.
 
 **Ingredients:**
+
 - 8 ounces warm water
 - ½ teaspoon salt
 - ¼ teaspoon baking soda
@@ -82,6 +87,7 @@ When your gums are inflamed, tender, or recovering from a procedure, you want th
 5. Use immediately
 
 **When to use:**
+
 - After dental procedures (extractions, deep cleanings)
 - During periodontal flare-ups
 - For canker sores or mouth ulcers
@@ -98,6 +104,7 @@ The salt draws fluid out of swollen tissue. The sage contains anti-inflammatory 
 When you need something stronger than the basic rinse—perhaps you're fighting early gingivitis or just want extra antimicrobial action—this adds essential oils to the mix.
 
 **Ingredients:**
+
 - 8 ounces warm water
 - ½ teaspoon salt
 - ¼ teaspoon baking soda
@@ -113,6 +120,7 @@ When you need something stronger than the basic rinse—perhaps you're fighting 
 5. Use within a week (essential oils can degrade)
 
 **When to use:**
+
 - When you want additional antimicrobial action
 - If you're seeing early signs of gum inflammation
 - As an occasional "deep clean" rinse (not necessarily daily)
@@ -126,6 +134,7 @@ The essential oils add genuine antimicrobial activity on top of the ecological b
 Sometimes the goal is specifically fresh breath. This formulation targets the volatile sulfur compounds (VSCs) that cause halitosis.
 
 **Ingredients:**
+
 - 8 ounces strong green tea (cooled to warm)
 - ¼ teaspoon salt
 - ¼ teaspoon baking soda
@@ -141,6 +150,7 @@ Sometimes the goal is specifically fresh breath. This formulation targets the vo
 6. Use within 24 hours (refrigerate if storing)
 
 **When to use:**
+
 - Before social or professional situations
 - First thing in the morning
 - Any time breath freshness is a priority
@@ -153,6 +163,7 @@ Green tea catechins (especially EGCG) reduce VSC production by inhibiting the ba
 When you're traveling and can't carry liquids, this dry concentrate packs into a tiny container.
 
 **Ingredients:**
+
 - 2 tablespoons fine salt
 - 1 tablespoon baking soda
 - ½ tablespoon xylitol powder (optional, for taste)
@@ -166,6 +177,7 @@ Alternatively, dissolve in a small cup of water if one is available.
 Store in a tiny container—an old mint tin works well, or a small pill case. This is TSA-friendly (it's just salt and baking soda) and lightweight.
 
 **When to use:**
+
 - Hotel rooms
 - Airplanes (ask for a cup of water)
 - Camping
@@ -176,6 +188,7 @@ Store in a tiny container—an old mint tin works well, or a small pill case. Th
 If remineralization is your specific goal—perhaps you have early white spot lesions or are in post-orthodontic recovery—this formulation maximizes mineral support.
 
 **Ingredients:**
+
 - 8 ounces warm water
 - ¼ teaspoon calcium carbonate powder
 - ⅛ teaspoon food-grade calcium phosphite or monocalcium phosphate (if available)
@@ -200,6 +213,7 @@ As I discussed in [Chapter 2](../foundations/saliva-unsung-hero.md), the amount 
 This isn't a rinse—it's a localized treatment for acute dental pain.
 
 **Ingredients:**
+
 - Clove essential oil
 - Cotton swab or small cotton ball
 - Optional: carrier oil (olive oil, coconut oil) for dilution
@@ -213,12 +227,14 @@ This isn't a rinse—it's a localized treatment for acute dental pain.
 6. Repeat every 2-3 hours as needed
 
 **When to use:**
+
 - Toothache while awaiting dental appointment
 - Post-procedure pain
 - Sensitivity flare-ups
 - Any acute dental pain situation
 
 **Cautions:**
+
 - Don't use on broken skin or open wounds
 - Don't swallow significant amounts
 - Don't use for more than a few days continuously—if pain persists, see a dentist
@@ -279,6 +295,7 @@ The point is to understand the principles well enough that you can create your o
 Let me be clear about realistic expectations:
 
 **These rinses CAN:**
+
 - Create a pH environment that favors enamel stability
 - Provide temporary osmotic stress to reduce bacterial activity
 - Reduce gingival inflammation modestly
@@ -288,6 +305,7 @@ Let me be clear about realistic expectations:
 - Complement (not replace) mechanical cleaning and fluoride use
 
 **These rinses CANNOT:**
+
 - Reverse established cavities
 - Cure periodontal disease
 - Replace brushing and flossing

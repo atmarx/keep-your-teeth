@@ -72,29 +72,35 @@ In a healthy oral ecosystem:
 Factors that shift the ecology toward malodor producers:
 
 **Dry mouth (xerostomia):**
+
 - Saliva contains oxygen, antibacterial factors, and physically washes away debris
 - Without adequate saliva, anaerobes flourish
 - Morning breath is largely a dry mouth phenomenon (reduced saliva during sleep)
 
 **Poor oral hygiene:**
+
 - Accumulated plaque provides substrate
 - Tongue coating accumulates
 - Interproximal areas harbor debris
 
 **Periodontal disease:**
+
 - Deep pockets create anaerobic environments
 - Blood from inflammation provides substrate
 - The very bacteria that cause periodontitis also produce VSCs
 
 **Dietary factors:**
+
 - High protein diets provide more amino acid substrate
 - Certain foods (garlic, onions) contain sulfur compounds that are absorbed systemically and released via breath (this is temporary)
 
 **Medications:**
+
 - Many drugs cause dry mouth as a side effect
 - Antihistamines, antidepressants, blood pressure medications, and hundreds of others
 
 **Systemic conditions:**
+
 - Diabetes, kidney disease, liver disease can affect breath
 - These account for only ~10% of halitosis cases
 
@@ -121,6 +127,7 @@ Since the tongue dorsum is the primary source in most halitosis cases, physical 
 **Tongue scrapers:** Purpose-built tools (plastic or metal) that gently remove the biofilm from the tongue surface. Studies show 70-75% reduction in VSC levels with tongue scraping.[^2]
 
 **Technique:**
+
 - Extend tongue fully
 - Place scraper at back (as far as comfortable without gagging)
 - Draw forward with gentle pressure
@@ -142,16 +149,19 @@ You cannot rinse away the smell from a periodontal pocket.
 ### 3. Optimize Salivary Flow
 
 **Stimulation:**
+
 - Chew xylitol gum (double benefit: saliva stimulation + xylitol's antimicrobial effect)
 - Stay hydrated
 - Chew fibrous foods
 
 **Address medications:**
+
 - If you take drugs causing dry mouth, discuss alternatives with your physician
 - If no alternatives, increase other salivary stimulation methods
 - Consider saliva substitutes if needed
 
 **Timing awareness:**
+
 - Morning breath is normal; address with tongue cleaning and morning hygiene
 - If you need fresh breath for an event, plan timing accordingly
 
@@ -259,6 +269,7 @@ Based on the above, here's a comprehensive approach:
 4. Stay hydrated
 
 **What to avoid:**
+
 - Relying on antiseptic mouthwash as your primary strategy
 - Assuming breath mints solve the problem (they mask, briefly)
 - Ignoring potential periodontal disease

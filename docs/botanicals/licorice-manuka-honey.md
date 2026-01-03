@@ -58,6 +58,7 @@ Glycyrrhizin inhibits an enzyme (11-β-hydroxysteroid dehydrogenase) that normal
 This is a real concern with chronic, high-dose licorice consumption. There are case reports of serious adverse effects from licorice candy (real licorice, not the artificially flavored kind).
 
 **For oral health purposes:**
+
 - Topical application (rinses, chewing) is lower risk than ingestion
 - The oral health benefits may be achievable with deglycyrrhizinated licorice (DGL), which has the glycyrrhizin removed
 - Short-term, moderate use is generally safe for healthy people

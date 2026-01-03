@@ -182,15 +182,18 @@
 ### Essential Oils
 
 **Look for:**
+
 - GC/MS testing (confirms purity and composition)
 - Botanical name specified (e.g., *Thymus vulgaris*, not just "thyme")
 - Organic certification (optional but indicates quality)
 
 **Avoid:**
+
 - "Fragrance oils" (synthetic, not therapeutic)
 - Unusually cheap products (may be diluted or adulterated)
 
 **Reputable suppliers:**
+
 - Plant Therapy
 - Mountain Rose Herbs
 - NOW Foods
@@ -203,6 +206,7 @@
 - Standardized products may specify flavonoid content
 
 **Sources:**
+
 - Health food stores
 - Beekeeping suppliers
 - Online herb retailers
@@ -210,21 +214,25 @@
 ### Miswak and Salvadora persica Products
 
 **Fresh miswak sticks:**
+
 - Available from Middle Eastern grocers
 - Online suppliers (search "miswak sticks" or "siwak")
 - Best used fresh; dried sticks should be soaked before use
 
 **Peelu/Salvadora persica products:**
+
 - Peelu brand gum and toothpaste (contains *S. persica* extract)
 - Various "miswak toothpastes" available online
 
 ### Nano-Hydroxyapatite Toothpaste
 
 **Japanese brands:**
+
 - Apagard (Premio, Royal, M-Plus varieties)
 - Available via Amazon Japan or specialty importers
 
 **Western brands:**
+
 - Boka
 - RiseWell
 - Davids (some formulations)
@@ -233,16 +241,19 @@
 ### Xylitol Products
 
 **Gum:**
+
 - Pur Gum (100% xylitol-sweetened)
 - Spry
 - Ice Chips
 - Epic Dental
 
 **Mints:**
+
 - Zellies
 - Spry mints
 
 **Bulk xylitol:**
+
 - NOW Foods
 - Anthony's
 - Various online suppliers
@@ -250,10 +261,12 @@
 ### Herbs (Fresh and Dried)
 
 **Growing your own:**
+
 - Sage is easy to grow in most climates
 - Fresh is generally more potent than dried
 
 **Purchasing:**
+
 - Mountain Rose Herbs (high quality, organic)
 - Starwest Botanicals
 - Local herb shops
@@ -272,11 +285,13 @@
 ### Saliva Testing
 
 **Saliva flow rate:**
+
 - Simple test: Collect saliva for 5 minutes, measure volume
 - Normal unstimulated: 0.3-0.5 mL/min
 - Below 0.1 mL/min suggests hyposalivation
 
 **Saliva buffering capacity:**
+
 - Commercial kits available (GC Saliva-Check Buffer)
 - Useful if concerned about remineralization capacity
 
@@ -287,10 +302,12 @@
 ### RSS Feeds and Alerts
 
 **PubMed Alerts:**
+
 - Create saved searches on PubMed
 - Receive email alerts when new papers are published
 
 **Google Scholar Alerts:**
+
 - Set up alerts for topics or authors of interest
 
 ### Conferences

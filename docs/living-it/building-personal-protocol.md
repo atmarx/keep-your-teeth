@@ -24,6 +24,7 @@ Let me help you assess your situation and build a protocol tailored to your actu
 | Sjögren's syndrome or other dry mouth conditions | Chronic saliva deficiency |
 
 **Lower risk if you have:**
+
 - No cavities in past 3 years
 - Adequate saliva flow
 - Low sugar diet
@@ -82,20 +83,25 @@ Answer honestly:
 *For: No recent cavities, healthy gums, good saliva, low sugar diet, regular dental visits*
 
 **Morning:**
+
 - Brush with fluoride toothpaste (2 min), spit don't rinse
 - Basic tongue cleaning
 
 **Evening:**
+
 - Brush with fluoride toothpaste (2 min), spit don't rinse
 - Floss or interdental brushes
 
 **Weekly:**
+
 - Nothing additional required
 
 **Professional care:**
+
 - Every 6 months
 
 **Optional enhancements:**
+
 - Salt/baking soda rinse if desired
 - Green tea consumption
 - Xylitol gum after meals
@@ -109,28 +115,34 @@ This is the minimum effective protocol for maintaining already-good oral health.
 *For: Occasional cavities, mild gingivitis, moderate sugar consumption, or some risk factors*
 
 **Morning:**
+
 - Tongue scraping
 - Brush with fluoride toothpaste (2 min), spit don't rinse
 - Salt/baking soda rinse
 
 **After meals:**
+
 - Xylitol gum or mints
 - Water rinse
 
 **Evening:**
+
 - Water flosser with dilute salt/baking soda solution
 - Floss or interdental brushes
 - Brush with n-HAp or fluoride toothpaste, spit don't rinse
 - Tongue scraping
 
 **Weekly:**
+
 - Consider oil pulling 2-3x weekly
 - Botanical rinse (sage, green tea) occasionally
 
 **Professional care:**
+
 - Every 6 months, possibly more frequently if gingivitis persists
 
 **Key additions:**
+
 - Interdental cleaning becomes non-negotiable
 - pH management with rinses
 - Xylitol exposure throughout day
@@ -143,22 +155,26 @@ This is the minimum effective protocol for maintaining already-good oral health.
 *For: Frequent cavities, periodontal disease, dry mouth, diabetes, or multiple risk factors*
 
 **Morning:**
+
 - Thorough tongue scraping
 - Brush with fluoride toothpaste (2 min), spit don't rinse
 - Wait 30 min, then use fluoride rinse (0.05% NaF)
 - Salt/baking soda rinse between meals as needed
 
 **After meals:**
+
 - Water rinse immediately
 - Xylitol gum (5+ exposures daily)
 - Salt/baking soda rinse 30 min after acidic foods
 
 **Afternoon:**
+
 - Additional xylitol exposure
 - Stay hydrated (crucial if dry mouth)
 - Consider CPP-ACP application (MI Paste) if dentist recommends
 
 **Evening:**
+
 - Water flosser with salt/baking soda solution (thorough)
 - Floss AND interdental brushes
 - Brush with fluoride toothpaste (2 min), spit don't rinse
@@ -167,20 +183,24 @@ This is the minimum effective protocol for maintaining already-good oral health.
 - Thorough tongue scraping
 
 **Daily additions:**
+
 - Probiotic lozenge (*S. salivarius* K12 or M18)
 - Green tea consumption
 - Dry mouth products if needed (saliva substitutes, xylitol products)
 
 **Weekly:**
+
 - Oil pulling 3-5x weekly
 - Botanical treatments (propolis, sage) as adjuncts
 
 **Professional care:**
+
 - Every 3-4 months (periodontal maintenance)
 - Discuss prescription fluoride if very high risk
 - Consider in-office fluoride varnish applications
 
 **Key differences:**
+
 - Multiple fluoride exposures daily
 - Aggressive pH management
 - Maximum xylitol exposure
@@ -195,6 +215,7 @@ This is the minimum effective protocol for maintaining already-good oral health.
 *Add to any protocol if you have xerostomia*
 
 **Ongoing throughout day:**
+
 - Sip water frequently (keep water bottle nearby)
 - Xylitol products multiple times daily (gum, mints, dissolving tablets)
 - Avoid alcohol-based mouthwashes
@@ -202,12 +223,14 @@ This is the minimum effective protocol for maintaining already-good oral health.
 - Humidifier at night if air is dry
 
 **Products to consider:**
+
 - Biotene or similar dry mouth products
 - Saliva substitutes (carboxymethylcellulose-based)
 - Dry mouth toothpaste (often higher fluoride, gentle formulations)
 - Xylitol sprays
 
 **Key principles:**
+
 - Your saliva is compromised, so you need to compensate with:
   - More frequent fluoride exposure
   - More frequent pH management
@@ -215,6 +238,7 @@ This is the minimum effective protocol for maintaining already-good oral health.
   - Extra diligence with plaque removal
 
 **Talk to your doctor about:**
+
 - Whether any medications could be switched to less xerostomia-causing alternatives
 - Pilocarpine or cevimeline if severe (prescription saliva stimulants)
 
@@ -235,6 +259,7 @@ These aren't just variations on the standard protocols—each life stage has uni
 ### If You Prefer Minimal Products
 
 **Core essentials only:**
+
 - Fluoride toothpaste (any basic brand)
 - Floss or interdental brushes
 - Salt and baking soda (you likely have these)
@@ -245,6 +270,7 @@ This minimal approach can work well if you're consistent and don't have elevated
 ### If You Prefer Natural/Botanical Approach
 
 **Emphasize:**
+
 - n-HAp toothpaste instead of fluoride (Apagard, etc.)
 - Salt/baking soda as primary rinse
 - Botanical rinses (sage tea, green tea, ginger)
@@ -254,6 +280,7 @@ This minimal approach can work well if you're consistent and don't have elevated
 - Xylitol throughout day
 
 **Be aware:**
+
 - You're trading the strongest evidence (fluoride) for alternatives with less robust data
 - Consider professional fluoride applications periodically even if avoiding it at home
 - Monitor cavity incidence; if it increases, reconsider fluoride
@@ -261,6 +288,7 @@ This minimal approach can work well if you're consistent and don't have elevated
 ### If You Love Technology and Optimization
 
 **Add:**
+
 - Electric toothbrush with pressure sensor and timer
 - Water flosser with multiple tip options
 - Oral probiotic supplements
@@ -270,6 +298,7 @@ This minimal approach can work well if you're consistent and don't have elevated
 - Professional fluoride varnish applications
 
 **Track:**
+
 - Cavity incidence
 - Gingival bleeding episodes
 - Professional assessments
@@ -277,12 +306,14 @@ This minimal approach can work well if you're consistent and don't have elevated
 ### If You Travel Frequently
 
 **Travel kit essentials:**
+
 - Travel toothbrush + mini fluoride toothpaste
 - Floss or disposable flossers
 - Xylitol gum (TSA-friendly, useful on planes where hydration is challenging)
 - Small container of salt/baking soda mix (if you use it regularly)
 
 **On-the-go strategies:**
+
 - Xylitol gum after meals when brushing isn't possible
 - Water rinse in restrooms
 - Maintain evening routine even when exhausted from travel

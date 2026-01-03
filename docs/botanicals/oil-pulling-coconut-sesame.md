@@ -171,6 +171,7 @@ Oil pulling is not a replacement for brushing, flossing, or other oral hygiene. 
 After reviewing the evidence, here's my honest evaluation:
 
 **What oil pulling probably does:**
+
 - Modestly reduces plaque accumulation
 - Reduces *S. mutans* counts
 - Improves mild gingivitis
@@ -178,6 +179,7 @@ After reviewing the evidence, here's my honest evaluation:
 - Provides an anti-inflammatory environment for gingival tissue
 
 **What oil pulling probably doesn't do:**
+
 - "Pull toxins" from your body
 - Replace brushing and flossing
 - Reverse established cavities
@@ -185,6 +187,7 @@ After reviewing the evidence, here's my honest evaluation:
 - Provide the dramatic systemic benefits sometimes claimed
 
 **Who might benefit most:**
+
 - People with mild gingivitis looking for gentle interventions
 - Those sensitive to alcohol-based mouthwashes
 - Anyone with halitosis concerns
@@ -192,6 +195,7 @@ After reviewing the evidence, here's my honest evaluation:
 - Those philosophically aligned with ecological approaches
 
 **Who probably shouldn't bother:**
+
 - Anyone already doing comprehensive oral care with good outcomes
 - People who can't commit the time
 - Those who find the sensation unpleasant after honest attempts

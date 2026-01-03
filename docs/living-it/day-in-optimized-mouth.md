@@ -27,6 +27,7 @@ Let me walk you through what an ecologically-informed day of oral care might loo
 **My suggestion:** If you eat a non-acidic breakfast, brush after. If you eat citrus or drink orange juice, brush before or wait 30 minutes after.
 
 **Brushing technique:**
+
 - Fluoride or n-HAp toothpaste (2 minutes)
 - 45-degree angle at gumline
 - Small circular or Bass technique movements
@@ -38,11 +39,13 @@ Let me walk you through what an ecologically-informed day of oral care might loo
 ### Post-Breakfast Window
 
 **If you had acidic foods/drinks (coffee, OJ, fruit):**
+
 - Don't brush for 30 minutes
 - Rinse with plain water or alkaline rinse to restore pH
 - Xylitol gum can help stimulate saliva and accelerate pH recovery
 
 **If you had neutral/alkaline breakfast:**
+
 - Regular routine applies
 - No special waiting needed
 
@@ -55,16 +58,19 @@ Let me walk you through what an ecologically-informed day of oral care might loo
 **Smart strategies:**
 
 **After lunch:**
+
 - Rinse with water (even just at a drinking fountain)
 - Xylitol gum or mints (saliva stimulation + xylitol's antimicrobial effect)
 - If you can manage it: a quick salt/baking soda rinse (keep some at your desk)
 
 **That afternoon coffee:**
+
 - Drink it within a reasonable time window (20-30 minutes) rather than sipping all afternoon
 - Follow with water rinse
 - Don't add sugar
 
 **Snacking patterns:**
+
 - If you're going to snack, do it in defined sessions rather than continuous grazing
 - Choose low-cariogenic options when possible: cheese, nuts, vegetables
 - Worst choice: sticky, sugary snacks spread throughout the day
@@ -90,6 +96,7 @@ Usually no special intervention needed. If you've been sipping acidic drinks all
 ### Post-Dinner
 
 **Timing considerations:**
+
 - If you'll be going to bed within 2 hours of dinner, your evening routine should come soon
 - If dinner will be followed by hours of evening activity, you might rinse after dinner and do full routine closer to bed
 
@@ -159,18 +166,23 @@ Here's a condensed reference:
 Real life interferes. Travel, illness, exhaustion, busy days. Here's a priority hierarchy:
 
 **If you can only do one thing:**
+
 - Brush before bed with fluoride or n-HAp toothpaste, don't rinse
 
 **If you can do two things:**
+
 - Above + morning brushing
 
 **If you can do three things:**
+
 - Above + interdental cleaning (evening)
 
 **If you can do four things:**
+
 - Above + tongue cleaning
 
 **If you can do five things:**
+
 - Above + pH-supportive rinse
 
 Everything beyond that is optimization. The core is: brush thoroughly twice daily, clean between teeth once daily, prioritize the evening routine.

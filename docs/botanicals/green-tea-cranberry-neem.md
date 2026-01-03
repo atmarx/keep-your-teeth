@@ -139,17 +139,20 @@ In Sanskrit, neem is called *Arishtha*—"reliever of sickness." Ayurvedic texts
 Neem is a chemical factory. Over 140 bioactive compounds have been identified, including:
 
 **Limonoids (tetranortriterpenoids):**
+
 - Azadirachtin — the most famous, primarily studied as a natural pesticide
 - Nimbin and nimbidin — anti-inflammatory and antimicrobial
 - Gedunin — antifungal properties
 
 **Other compounds:**
+
 - Nimbolide — potent anticancer research interest
 - Quercetin — flavonoid antioxidant
 - Gallic acid — antimicrobial and astringent
 - Catechins — similar to green tea
 
 **Fatty acids:**
+
 - Oleic and stearic acids — contribute to the oil's properties
 
 ### Mechanisms of Action for Oral Health
@@ -175,27 +178,32 @@ A study comparing neem chew sticks to toothbrushing found comparable plaque remo
 ### How to Use Neem
 
 **Neem twigs (traditional):**
+
 - Fresh twigs are chewed to fray the fibers
 - The bitter taste is significant—acquired, not enjoyed
 - Provides both mechanical cleaning and chemical exposure
 - Difficult to source in Western countries
 
 **Neem toothpaste:**
+
 - Many brands available, particularly from Indian manufacturers
 - Provides the active compounds in a familiar format
 - Quality and concentration vary significantly
 
 **Neem mouthwash:**
+
 - Often combined with other Ayurvedic herbs
 - Typically alcohol-free
 - Bitter taste can be challenging
 
 **Neem oil:**
+
 - Can be added to homemade preparations (1-2 drops)
 - Extremely bitter—use sparingly
 - Has a distinctive smell some find unpleasant
 
 **Neem leaf extract:**
+
 - Available in tincture or powder form
 - Can be added to rinses
 - More concentrated than twig chewing

@@ -193,15 +193,18 @@ Essential oils are potent. More is not better. At high concentrations, many of t
 If you want to enhance your basic salt/baking soda rinse with essential oils, here's a formulation that balances efficacy with safety:
 
 **Base:**
+
 - 8 oz warm water
 - ½ tsp salt
 - ¼ tsp baking soda
 
 **Essential oils (pre-mixed with ½ tsp vegetable glycerin):**
+
 - 1 drop peppermint oil (flavor, mild antimicrobial)
 - 1 drop thyme oil OR eucalyptus oil (antimicrobial)
 
 **Optional:**
+
 - ½ drop clove oil (if you can manage to measure it—dip a toothpick in clove oil and swirl in the mixture)
 
 Stir or shake well. Swish for 30-60 seconds. Spit.
@@ -213,17 +216,20 @@ This gives you the ecological gentleness of the salt/baking soda base with a sma
 Essential oils for oral health exist on a spectrum from "genuinely evidence-based" to "wishful thinking marketed aggressively."
 
 **Use with confidence:**
+
 - Clove oil for acute pain (topical, diluted)
 - Thymol-containing products (well-studied)
 - Eucalyptol-containing products (well-studied)
 - Peppermint for flavor and mild effects
 
 **Use with caution:**
+
 - Tea tree oil (toxicity concerns)
 - Cinnamon oil (irritation potential)
 - High concentrations of anything
 
 **Avoid or be skeptical:**
+
 - MLM "cure-all" blends
 - Claims that any oil can treat cavities, cure periodontal disease, or replace professional care
 - Undiluted application to tissues

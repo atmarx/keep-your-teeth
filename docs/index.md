@@ -18,7 +18,7 @@ This book is about understanding what's actually happening in your mouth every h
 
 <div class="grid cards" markdown>
 
--   :material-tooth:{ .lg .middle } __Part I: Foundations__
+-   :material-tooth:{ .lg .middle } [__Part I: Foundations__](foundations/index.md)
 
     ---
 
@@ -26,7 +26,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: The Science](foundations/index.md)
 
--   :material-history:{ .lg .middle } __Part II: How We Got Here__
+-   :material-history:{ .lg .middle } [__Part II: How We Got Here__](history/index.md)
 
     ---
 
@@ -34,7 +34,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: The History](history/index.md)
 
--   :material-bacteria:{ .lg .middle } __Part III: The Enemies__
+-   :material-bacteria:{ .lg .middle } [__Part III: The Enemies__](enemies/index.md)
 
     ---
 
@@ -42,7 +42,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: Know Your Enemy](enemies/index.md)
 
--   :material-flask:{ .lg .middle } __Part IV: Chemistry of Care__
+-   :material-flask:{ .lg .middle } [__Part IV: Chemistry of Care__](chemistry/index.md)
 
     ---
 
@@ -50,7 +50,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: The Chemistry](chemistry/index.md)
 
--   :material-toothbrush:{ .lg .middle } __Part V: Delivery__
+-   :material-toothbrush:{ .lg .middle } [__Part V: Delivery__](delivery/index.md)
 
     ---
 
@@ -58,7 +58,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: Application Methods](delivery/index.md)
 
--   :material-leaf:{ .lg .middle } __Part VI: Botanicals__
+-   :material-leaf:{ .lg .middle } [__Part VI: Botanicals__](botanicals/index.md)
 
     ---
 
@@ -66,7 +66,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: Plant Allies](botanicals/index.md)
 
--   :material-atom:{ .lg .middle } __Part VII: Modern Innovations__
+-   :material-atom:{ .lg .middle } [__Part VII: Modern Innovations__](innovations/index.md)
 
     ---
 
@@ -74,7 +74,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: New Frontiers](innovations/index.md)
 
--   :material-heart-pulse:{ .lg .middle } __Part VIII: The Bigger Picture__
+-   :material-heart-pulse:{ .lg .middle } [__Part VIII: The Bigger Picture__](bigger-picture/index.md)
 
     ---
 
@@ -82,7 +82,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: Beyond the Mouth](bigger-picture/index.md)
 
--   :material-calendar-check:{ .lg .middle } __Part IX: Living It__
+-   :material-calendar-check:{ .lg .middle } [__Part IX: Living It__](living-it/index.md)
 
     ---
 
@@ -90,7 +90,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     [:octicons-arrow-right-24: Practical Application](living-it/index.md)
 
--   :material-bookshelf:{ .lg .middle } __Reference__
+-   :material-bookshelf:{ .lg .middle } [__Reference__](reference/index.md)
 
     ---
 

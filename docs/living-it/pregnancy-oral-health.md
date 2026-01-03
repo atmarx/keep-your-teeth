@@ -207,6 +207,7 @@ The focus on pregnancy oral health often stops at delivery. But the postpartum p
 **The "I'll deal with it later" trap:** That tooth that started bothering you during pregnancy? It won't fix itself. New mothers often delay their own care for months or years. Don't.
 
 **Practical suggestions:**
+
 - Keep a toothbrush and toothpaste near where you nurse/feed
 - Do a quick brush even at 3am if you've had a snack
 - Schedule your dental appointment before the baby arrives, for 6-8 weeks postpartum

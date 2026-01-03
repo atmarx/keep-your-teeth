@@ -61,6 +61,7 @@ Propolis has a relatively robust evidence base for oral health:
 **Propolis in toothpaste:** Several brands incorporate propolis extract.
 
 **Cautions:**
+
 - Propolis can cause allergic reactions, particularly in people allergic to bee stings, honey, or related substances
 - Patch test first if you have any history of bee-related allergies
 - The alcohol in tinctures may irritate open wounds—dilute if needed
@@ -163,18 +164,21 @@ I include this discussion not to scare you away from botanicals—most of what w
 Propolis and myrrh remain valuable tools in the botanical oral health arsenal. They're concentrated, potent, and—when used appropriately—safe. Here are guidelines for incorporating them:
 
 **Propolis:**
+
 - Use in tincture form, added to rinses or applied directly
 - 10-20 drops per rinse is typical
 - Can be used regularly (several times per week) for maintenance
 - Watch for allergic reactions, especially if you have bee allergies
 
 **Myrrh:**
+
 - Use in tincture form or as powder
 - Best for acute inflammation or healing rather than daily maintenance
 - Bitter taste limits tolerability for some people
 - Use intermittently rather than continuously
 
 **Bloodroot:**
+
 - Avoid in oral care products
 - Historical interest only
 
