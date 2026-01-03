@@ -104,6 +104,26 @@ Topics that could expand existing chapters or become new ones:
 
 ---
 
+## Periodic Maintenance (Every 3-6 Months)
+
+Recurring tasks to keep the site accurate and functional:
+
+- [ ] **External link validation** — Check all Wikipedia, journal, and external links for 404s or moved content
+- [ ] **Health information review** — Search for new research on key topics:
+  - Nano-hydroxyapatite efficacy studies
+  - Oral microbiome / probiotics developments
+  - Xylitol and sugar alcohol research
+  - Fluoride recommendations or controversies
+  - Any updates to cited studies (retractions, follow-ups)
+- [ ] **Update footnotes** — Add new citations if significant research emerges
+- [ ] **Check product/brand mentions** — Ensure any referenced products still exist and meet criteria
+- [ ] **Review analytics** — Check GoatCounter for popular pages, broken link referrals
+- [ ] **Dependency updates** — Update MkDocs Material and plugins in requirements.txt
+
+*Last maintenance check: [Not yet performed]*
+
+---
+
 ## Known Issues
 
 - [ ] Some Material theme icons may not render in older browsers

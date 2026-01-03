@@ -79,7 +79,9 @@
       "Bash(git rebase:*)",
       "Bash(GIT_EDITOR=true git rebase:*)",
       "Bash(git add:*)",
-      "Bash(git remote set-url:*)"
+      "Bash(git remote set-url:*)",
+      "Bash(pip index:*)",
+      "Bash(pip show:*)"
     ]
   }
 }

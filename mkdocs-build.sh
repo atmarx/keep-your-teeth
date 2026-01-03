@@ -73,10 +73,10 @@ activate_venv() {
 }
 
 install_dependencies() {
-    echo -e "${YELLOW}Installing dependencies...${NC}"
+    echo -e "${YELLOW}Installing dependencies from requirements.txt...${NC}"
     pip install --upgrade pip --quiet
-    pip install mkdocs-material mkdocs-minify-plugin --quiet
-    echo -e "${GREEN}✓ Dependencies installed${NC}"
+    pip install -r "$SCRIPT_DIR/requirements.txt" --quiet
+    echo -e "${GREEN}✓ Dependencies installed (versions pinned in requirements.txt)${NC}"
 }
 
 setup_environment() {
@@ -120,7 +120,7 @@ ensure_venv() {
 check_mkdocs() {
     if ! command -v mkdocs &> /dev/null; then
         echo -e "${RED}MkDocs not found in environment${NC}"
-        pip install mkdocs-material mkdocs-minify-plugin --quiet
+        pip install -r "$SCRIPT_DIR/requirements.txt" --quiet
     fi
 }
 
