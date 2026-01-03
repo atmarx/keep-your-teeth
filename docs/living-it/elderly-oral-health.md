@@ -23,6 +23,7 @@ This is the big one. Everything else flows from this.
 Salivary function declines with age—not as dramatically as once believed, but significantly in many individuals. More importantly, **medications** commonly prescribed to older adults often cause dry mouth (xerostomia) as a side effect.[^1]
 
 The culprits include:
+
 - **Antihypertensives** (blood pressure medications)
 - **Antidepressants** (especially tricyclics and SSRIs)
 - **Antihistamines** (allergy and cold medications)
@@ -64,6 +65,7 @@ Root caries (cavities on root surfaces) are the signature dental disease of olde
 By the time you reach your later years, your gums have seen a lot. Past episodes of gingivitis, varying levels of care, perhaps some periodontal treatment—it all adds up.
 
 Many older adults have:
+
 - **Recession:** Gum tissue that has pulled back from where it once was
 - **Attachment loss:** The periodontal ligament and bone supporting teeth may be diminished
 - **Pocketing:** Spaces between teeth and gums where bacteria accumulate
@@ -103,6 +105,7 @@ Let me address something that angers me: the assumption that dentures are just w
 Full dentures are a last resort, not a natural progression. They represent failure—of the dental system, of patient education, of access to care, of something. They should not be normalized.
 
 Dentures are:
+
 - **Less efficient than natural teeth** for chewing (roughly 25% efficiency compared to natural dentition)[^3]
 - **Progressive accelerators of bone loss** in the jaws
 - **Associated with nutritional deficiencies** because people with dentures avoid certain foods
@@ -144,6 +147,7 @@ If you have xerostomia, these practices become essential:
 **Humidity:** A bedroom humidifier reduces overnight drying.
 
 **Avoid drying agents:**
+
 - Alcohol-based mouthwashes (use alcohol-free versions)
 - Caffeine (increases dehydration)
 - Tobacco (damages salivary glands)
@@ -188,6 +192,7 @@ If you're caring for an elderly person with cognitive decline, oral care often g
 But oral infections cause pain, affect nutrition, and can lead to systemic complications. Please prioritize it.
 
 **Practical suggestions:**
+
 - Establish routine: same time, same place, same sequence
 - Give simple, one-step directions
 - Hand-over-hand guidance if needed
@@ -197,6 +202,7 @@ But oral infections cause pain, affect nutrition, and can lead to systemic compl
 - Watch for signs of pain: refusal to eat, touching the face, changes in behavior
 
 If the person wears dentures:
+
 - Remove and clean them daily
 - Give the gums a rest overnight (remove dentures while sleeping)
 - Clean the underlying tissues with a soft brush or cloth
@@ -250,6 +256,7 @@ I've collected teeth from people who gave up too soon. I don't want to collect y
 Let me give you a condensed protocol for maintaining oral health as you age:
 
 **Daily essentials:**
+
 - Brush twice daily with fluoride or n-HAp toothpaste
 - Use an electric toothbrush if dexterity is an issue
 - Clean between teeth (floss, picks, water flosser—whatever you'll actually do)
@@ -257,6 +264,7 @@ Let me give you a condensed protocol for maintaining oral health as you age:
 - Use xylitol products throughout the day
 
 **If you have dry mouth:**
+
 - Sip water frequently
 - Use saliva substitutes as needed
 - Avoid alcohol-based products
@@ -264,12 +272,14 @@ Let me give you a condensed protocol for maintaining oral health as you age:
 - Consider prescription saliva stimulants
 
 **If you have exposed root surfaces:**
+
 - Consider prescription-strength fluoride toothpaste
 - Be gentle at the gumline
 - Use remineralizing products (MI Paste, n-HAp)
 - Watch for changes and report them early
 
 **Professional care:**
+
 - Dental visits every 3-6 months (more frequently than when you were younger)
 - Don't skip cleanings—you need them more now, not less
 - Address problems promptly; small problems become big problems faster in aging mouths
