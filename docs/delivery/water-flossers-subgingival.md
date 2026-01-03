@@ -9,6 +9,7 @@ It combines mechanical biofilm disruption with the ability to deliver whatever s
 A water flosser isn't just squirting water at your teeth. If it were, you could accomplish the same thing with a sports bottle. The magic is in the pulsation.
 
 Most water flossers operate at:[^1]
+
 - **Pressure:** 10-100 PSI, with most use in the 50-80 PSI range
 - **Frequency:** 1,200-1,400 pulses per minute
 - **Flow rate:** 10-20 mL per second
@@ -124,6 +125,7 @@ Now we get to the integration with everything you've learned. Your water flosser
 The pressurized delivery means the solution is being *forced* into contact with tissue, including potentially sensitive sulcular epithelium. I recommend a **more dilute** mixture for water flosser use:
 
 **For water flosser reservoir (approximately 15-20 oz capacity):**
+
 - ¼ teaspoon salt
 - ⅛ teaspoon baking soda
 - Warm water to fill
@@ -135,6 +137,7 @@ This is about half the concentration of the swishing rinse. You're compensating 
 - Mechanical disruption occurring simultaneously
 
 **What to leave out:**
+
 - Calcium carbonate: The particles can clog jets. Leave it out of water flosser use.
 - Essential oils: Unless very dilute and well-emulsified. Oil droplets can also clog the system and may leave residue.
 
@@ -180,6 +183,7 @@ This gives you the benefits of both pressurized delivery and passive soaking.
 This isn't necessarily either/or. They do slightly different things:
 
 **Water flossing advantages:**
+
 - Better subgingival penetration
 - Easier technique (less dexterity required)
 - Can deliver solutions
@@ -187,6 +191,7 @@ This isn't necessarily either/or. They do slightly different things:
 - More engaging (some people find it satisfying)
 
 **String flossing advantages:**
+
 - Scraping action against tooth surface (not just hydraulic disruption)
 - No equipment required
 - Portable
@@ -197,6 +202,7 @@ This isn't necessarily either/or. They do slightly different things:
 ## Contraindications and Cautions
 
 **Use with care if:**
+
 - You have acute periodontal infection (talk to your dentist first)
 - You're immediately post-surgical in the mouth
 - You have exposed root surfaces with sensitivity
