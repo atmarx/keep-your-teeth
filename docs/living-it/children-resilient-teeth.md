@@ -165,23 +165,27 @@ Non-nutritive sucking is normal and typically harmless before age 3-4. After tha
 ### Preschool (3-6 years)
 
 **Brushing:**
+
 - Pea-sized amount of fluoride toothpaste
 - Parent still supervises and assists
 - Teach spitting (children often swallow toothpaste)
 - Morning and bedtime brushing
 
 **Flossing:**
+
 - Begin when teeth touch (often around age 2-3)
 - Parent does the flossing
 - Floss picks can be easier than traditional floss for small mouths
 
 **Diet:**
+
 - Continue limiting sugary drinks
 - Be aware of hidden sugars in snacks
 - Encourage water as primary beverage
 - Limit snacking frequency
 
 **First permanent molars:**
+
 - 6-year molars erupt behind baby teeth (no tooth falls out for them)
 - Often missed because parents don't realize they're there
 - High caries risk—newly erupted, difficult to reach, deep grooves
@@ -190,16 +194,19 @@ Non-nutritive sucking is normal and typically harmless before age 3-4. After tha
 ### School Age (6-12 years)
 
 **Brushing:**
+
 - Child can brush independently but parent should check
 - Electric toothbrushes can help
 - Timer or app to ensure 2-minute duration
 - Continue emphasizing "spit, don't rinse"
 
 **Flossing:**
+
 - Transition to child doing it with supervision
 - Water flossers can be easier and more engaging
 
 **Sealants:**
+
 - Dental sealants are plastic coatings applied to chewing surfaces of molars
 - They fill the deep grooves where bacteria hide and brushing can't reach
 - Highly effective caries prevention (80%+ reduction in treated surfaces)[^3]
@@ -207,6 +214,7 @@ Non-nutritive sucking is normal and typically harmless before age 3-4. After tha
 - I *strongly* recommend sealants—one of the most effective preventive interventions available
 
 **Orthodontics:**
+
 - If braces are placed, oral hygiene becomes much more challenging
 - Plaque accumulates around brackets
 - Special brushes, water flossers, and possibly more frequent professional cleanings
@@ -250,6 +258,7 @@ Energy drinks, sports drinks, sodas, and even many "health" drinks are highly ac
 Each sip is an acid attack. Sipping throughout the day means continuous demineralization.
 
 **Strategies:**
+
 - If they're going to drink these, consume quickly rather than sipping
 - Rinse with water afterward
 - Use a straw (reduces contact with teeth)
@@ -270,6 +279,7 @@ A knocked-out permanent tooth is a dental emergency that requires immediate acti
 This is uncomfortable to discuss but important. Bulimia nervosa—characterized by binge eating and purging—is devastatingly destructive to teeth. The stomach acid from repeated vomiting dissolves enamel rapidly.
 
 Signs a dentist might notice:
+
 - Erosion on the backs of front teeth
 - Increased cavities
 - Sensitive teeth
@@ -296,6 +306,7 @@ This is where the fluoride controversy matters most. Children's developing teeth
 **Risk:** Excess systemic fluoride during enamel formation (roughly 0-8 years) can cause dental fluorosis—white spots or, in severe cases, brown mottling.
 
 **Sources:**
+
 - Fluoridated water (0.7 ppm in US)
 - Swallowed toothpaste
 - Fluoride supplements (by prescription)
@@ -314,12 +325,14 @@ This is where the fluoride controversy matters most. Children's developing teeth
 ### Practical Guidance
 
 **If you have fluoridated water:**
+
 - Use fluoride toothpaste in age-appropriate amounts
 - Supervise brushing to minimize swallowing
 - No supplements needed
 - Some fluorosis risk, but usually mild and cosmetic
 
 **If you have unfluoridated water (well, RO system, etc.):**
+
 - Fluoride toothpaste is more important
 - Consider discussing supplements with pediatric dentist
 - Professional fluoride varnish applications more valuable
@@ -347,18 +360,21 @@ Young children often swallow toothpaste instead of spitting it. This is why:
 **Sugar frequency matters more than total amount.** Five small sugar exposures (candy, cookie, juice box, soda, sweet snack) create more acid attacks than one larger dessert.
 
 **Teach children:**
+
 - Water is the default beverage
 - Juice is a treat, not a daily drink
 - Candy happens, but preferably with meals or in limited time windows, not spread throughout the day
 - If you're going to have sweets, eat them and be done—don't stretch it out
 
 **School challenges:**
+
 - Pack water, not juice boxes
 - Limit sweet snacks in lunches
 - Chocolate milk at lunch is a sugar exposure
 - After-school snacks should be low-caries risk when possible (cheese, vegetables, nuts)
 
 **The bedtime bottle disaster:**
+
 - Putting a child to bed with a bottle of milk or juice is extremely cariogenic
 - The liquid pools around teeth while saliva flow is reduced
 - "Baby bottle tooth decay" devastates primary teeth
@@ -369,16 +385,19 @@ Young children often swallow toothpaste instead of spitting it. This is why:
 The habits established in childhood tend to persist. A child who grows up brushing twice daily, flossing, seeing the dentist regularly, and limiting sugar will likely continue those patterns as an adult.
 
 **Make it normal:**
+
 - Oral care is just what we do, not a negotiation
 - Parents model good behavior
 - Regular dental visits from early age normalize them
 
 **Make it achievable:**
+
 - Age-appropriate expectations
 - Don't expect perfection
 - Praise effort and consistency
 
 **Make it positive:**
+
 - Not a chore, just part of the routine
 - Celebrate dental visit success
 - Don't use dentist as threat ("brush or the dentist will drill your teeth")
@@ -388,12 +407,14 @@ The habits established in childhood tend to persist. A child who grows up brushi
 Children with developmental disabilities, chronic illnesses, or other special needs often face additional oral health challenges:
 
 **Physical challenges:**
+
 - Limited motor control makes brushing difficult
 - Oral defensiveness (hypersensitivity) may cause resistance to brushing
 - Positioning may be difficult (wheelchairs, muscle tone issues)
 - Certain medications cause dry mouth or gingival overgrowth
 
 **Behavioral challenges:**
+
 - Difficulty understanding instructions
 - Anxiety about dental procedures
 - Inability to cooperate during examination
@@ -435,6 +456,7 @@ The goal remains the same: protect the teeth these children will need for their 
 Know what constitutes a dental emergency:
 
 - **Knocked-out permanent tooth:** Time-critical emergency. Rinse tooth gently (don't scrub), place back in socket if possible or keep in milk, get to dentist immediately. The tooth can often be saved if reimplanted within an hour.
+
 - **Broken tooth:** See dentist same day if possible, especially if there's pain or the nerve is exposed (pink or red visible at fracture site)
 - **Severe toothache:** Indicates infection or pulpal involvement—don't delay
 - **Swelling:** Can indicate spreading infection—seek care promptly
