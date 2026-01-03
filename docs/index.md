@@ -6,7 +6,6 @@
 
 ## What This Book Is About
 
-
 Your mouth isn't a war zone. It's an **ecosystem**. A garden. A coral reef, if you want to get poetic about it.
 
 There are over seven hundred species of bacteria in there, and most of them are trying to help you. When you napalm the whole system with antiseptic mouthwash, you don't create health. You create chaos.

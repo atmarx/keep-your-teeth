@@ -10,7 +10,7 @@ I know, I know—that's a strange thing for the Tooth Fairy to say. You've been 
 
 You see, somewhere along the way, there was a misunderstanding about my role in all this. You think I'm a collector, a curator of calcium phosphate, some sort of dental acquisitions specialist fluttering through the night with a coin purse and an enthusiasm for bicuspids. But that was never the point. The coins weren't payment for goods received—they were consolation prizes. They were my way of saying, "I'm sorry this happened to you. I'm sorry no one taught you better. Here's something shiny to soften the loss."
 
-Every tooth I take is a small tragedy.
+**Every tooth I take is a small tragedy.**
 
 I've been doing this job for longer than your species has had written language. I watched the first humans chew fibrous roots and leaves that scrubbed their teeth clean without them even knowing it. I watched them discover the miswak—a twig from a tree that contained, by some miracle of evolution or design, almost everything a tooth could need. I watched them figure out that sage helped sore gums and that salt water soothed inflammation. They didn't have words like "antimicrobial" or "pH buffering," but they had instincts, and those instincts kept their teeth in their mouths far longer than you might expect.
 
@@ -36,11 +36,11 @@ This book is my attempt to explain what I've been watching for millennia: how te
 
 It's also a plea.
 
-I don't want to keep doing this job. I don't want to keep visiting bedrooms in the middle of the night to collect what remains of something beautiful. I want to return to my true work—tending my garden of healing herbs, studying the old remedies, teaching those who seek to understand. Every midnight collection pulls me away from the apothecary where I belong.
+Collecting teeth is my least favorite part of being the Tooth Fairy. I don't want to keep visiting bedrooms in the middle of the night to collect the remains of something beautiful. I want to return to my true work—tending my garden of healing herbs, studying the old remedies, teaching those who seek to understand. Every midnight collection pulls me away from the apothecary where I belong.
 
 But that can only happen if you start doing things differently.
 
-The good news—and there is good news—is that your teeth are more resilient than you've been led to believe. Every day, they're engaged in a dynamic process of dissolution and repair, a constant negotiation between destruction and renewal. The system *works*, if you let it. If you understand it. If you stop sabotaging it with approaches that made sense only when we thought the mouth was a battlefield rather than a garden.
+The good news—and *there **is** good news*—is that your teeth are more resilient than you've been led to believe. Every day, they're engaged in a dynamic process of dissolution and repair, a constant negotiation between destruction and renewal. The system *works*, if you let it. If you understand it. If you stop sabotaging it with approaches that made sense only when we thought the mouth was a battlefield rather than a garden.
 
 The science is there. The evidence is there. The ancient wisdom is there, increasingly validated by modern research. What's been missing is someone to put it all together in a way that makes sense—someone who's been watching long enough to see the patterns, who doesn't have a product to sell, who genuinely just wants you to keep your teeth.
 
