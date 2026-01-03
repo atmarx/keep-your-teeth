@@ -2,27 +2,10 @@
 
 ## An Ecological Approach to Oral Health
 
-<div class="hero-section" markdown>
-
-![Tooth fairy, weary after a life of collecting teeth.](../images/tooth-fairy.png){ width=200 align=right }
-
-!!! quote "A confession from your midnight visitor"
-
-
-
-    I need to tell you something, and I need you to actually listen this time.
-    
-    **I don't want your teeth.**
-    
-    I know, I know—that's a strange thing for the Tooth Fairy to say. You've been leaving them under pillows for me since before your great-grandparents were born. I've got teeth. I've got so many teeth. What I don't have is job satisfaction.
-    
-    Every tooth I take is a small tragedy.
-
-</div>
-
----
+![Tooth fairy, weary after a life of collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
 
 ## What This Book Is About
+
 
 Your mouth isn't a war zone. It's an **ecosystem**. A garden. A coral reef, if you want to get poetic about it.
 

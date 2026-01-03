@@ -144,7 +144,7 @@ serve_site() {
     echo -e "${YELLOW}Press Ctrl+C to stop${NC}"
     echo ""
     cd "$SCRIPT_DIR"
-    mkdocs serve
+    mkdocs serve --livereload
 }
 
 clean_site() {

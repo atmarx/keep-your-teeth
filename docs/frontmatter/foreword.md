@@ -16,8 +16,7 @@ Teeth don't heal themselves the way skin does. Once they're gone, they're gone. 
 
 I hope you find something useful here. Read critically, experiment carefully, and don't forget to see your dentist.
 
---Andrew
-(@atmarx)
+--[Andrew (@atmarx)](https://github.com/atmarx/)
 
 ---
 
