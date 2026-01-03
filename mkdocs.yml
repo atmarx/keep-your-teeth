@@ -45,9 +45,9 @@ theme:
     - content.footnote.tooltips
   
   favicon: images/favicon/favicon.ico
+  logo: images/tooth.png
 
   icon:
-    logo: material/tooth
     repo: fontawesome/brands/github
   
   custom_dir: docs/overrides
