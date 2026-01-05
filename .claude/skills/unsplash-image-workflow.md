@@ -98,7 +98,7 @@ Insert images with attribution embedded in the alt text (for GLightbox caption d
 Embed attribution in the image description using HTML links with **single quotes**:
 
 ```markdown
-![Alt text. Photo by <a href='https://unsplash.com/@username'>Name</a> on <a href='https://unsplash.com/photos/photo_id'>Unsplash</a>](path/to/image.webp)
+![Alt text. Photo by <a href='https://unsplash.com/@username'>Name</a> on <a href='https://unsplash.com/photos/photo_id'>Unsplash</a>](../images/unsplash/image.webp)
 ```
 
 **Why this format:**
@@ -134,10 +134,10 @@ https://unsplash.com/photos/person-wearing-silver-diamond-ring-fmB7IdFjhTM
 
 Claude:
 1. Fetches page, extracts: Diana Polekhina (@diana_pole)
-2. Downloads: curl -L -o nightguard-raw.jpg "https://images.unsplash.com/photo-..."
+2. Downloads to docs/images/unsplash/: curl -L -o nightguard-raw.jpg "https://images.unsplash.com/photo-..."
 3. Processes: ffmpeg -y -i nightguard-raw.jpg -vf "scale=..." -quality 85 nightguard.webp
 4. Adds to chapter:
-   ![Person inserting a dental night guard. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/fmB7IdFjhTM'>Unsplash</a>](../images/nightguard.webp){ align=right width=200 }
+   ![Person inserting a dental night guard. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/fmB7IdFjhTM'>Unsplash</a>](../images/unsplash/nightguard.webp){ align=right width=200 }
 ```
 
 ## Troubleshooting
